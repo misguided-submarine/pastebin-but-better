@@ -1,0 +1,1133 @@
+[11:02 AM] A Random Badger: i still think elon musk is absolutely incredibly ridiculous man
+[11:03 AM] fancy: he's a smart dude
+[11:03 AM] A Random Badger: yes
+[11:04 AM] A Random Badger: he is
+[11:04 AM] A Random Badger: but i think he's absolutely ignorant
+[11:04 AM] fancy: I don't know what that means in this context
+[11:05 AM] A Random Badger: the way he shows off his "wonderful" ai is like the only thing he cares about is making himself look like a bigger man in a sense rather than actually striving to further the technological advances of artificial intelligence
+[11:05 AM] A Random Badger: well
+[11:05 AM] A Random Badger: i saw a tweet from him
+[11:05 AM] A Random Badger: stating that
+[11:06 AM] A Random Badger: his ai beat top dota pros is "vastly more complex than traditional board games like Chess & Go"
+[11:06 AM] A Random Badger: and maybe im misunderstanding his point
+[11:06 AM] A Random Badger: if his point is
+[11:06 AM] A Random Badger: that dota is more complex
+[11:06 AM] A Random Badger: than them
+[11:06 AM] A Random Badger: then i can agree
+[11:06 AM] A Random Badger: but if he is saying that his ai is mroe complex
+[11:06 AM] A Random Badger: than the ai's of go and chess
+[11:06 AM] A Random Badger: i think its wrong and ignorant to assume
+[11:06 AM] fancy: I disagree with that
+[11:07 AM] fancy: go ai is involved but the concept is relatively simple
+[11:07 AM] fancy: chess ai is more complex
+[11:07 AM] fancy: but still less complex than dota
+[11:07 AM] fancy: so
+[11:07 AM] A Random Badger: actually go ai and chess ai is very similar
+[11:07 AM] fancy: I can kinda see his angle
+[11:07 AM] A Random Badger: all it does is calculate the win % of the following moves
+[11:07 AM] A Random Badger: where a chess ai only has to look at a few dozen moves
+[11:07 AM] fancy: I mean if we have to re-hash possibility spaces
+[11:07 AM] A Random Badger: and go ai has to look at hundreds
+[11:08 AM] fancy: lol
+[11:08 AM] A Random Badger: wym
+[11:08 AM] A Random Badger: re-hash possibility spaces
+[11:08 AM] fancy: there's a difference between magnitude and complexity
+[11:08 AM] A Random Badger: yes
+[11:08 AM] fancy: to a computer analyzing 10 moves is the same as analyzing 10 thousand moves
+[11:09 AM] A Random Badger: pretty much
+[11:09 AM] A Random Badger: but
+[11:09 AM] A Random Badger: the issue i have
+[11:09 AM] A Random Badger: is he claims his ai is so complex
+[11:09 AM] fancy: you have a personal issue because you like go better imo
+[11:10 AM] A Random Badger: when all it has accomplished is really mastering basic mechanical elements of Dota which is very simple for an AI to do considering they dont have to worry about human error
+[11:10 AM] A Random Badger: and thats the thing about video game mechanics
+[11:10 AM] A Random Badger: most of it revolves around
+[11:10 AM] A Random Badger: human error
+[11:10 AM] fancy: Except what is complex to humans isn't complex to computers
+[11:10 AM] fancy: humans can see things computers can't
+[11:11 AM] fancy: it is very hard to quantify how much any one specific action in dota correlated to winning
+[11:11 AM] A Random Badger: yes but this is my point
+[11:11 AM] A Random Badger: his ai hasnt won a game of dota
+[11:11 AM] fancy: thus why it took thousands of hours before the ai bots even went to the mid lane during the game
+[11:11 AM] A Random Badger: it has won 1v1s
+[11:11 AM] A Random Badger: which are
+[11:11 AM] A Random Badger: incredibly
+[11:11 AM] A Random Badger: much simpler
+[11:11 AM] fancy: yes
+[11:11 AM] fancy: however
+[11:11 AM] A Random Badger: all the bot has to do
+[11:11 AM] fancy: extremely complex for an ai
+[11:12 AM] fancy: you're talking from the perspective of a human
+[11:12 AM] fancy: humans have the ability to make assumptions
+[11:12 AM] fancy: jumps in logic
+[11:12 AM] fancy: ai cant(edited)
+[11:12 AM] fancy: not yet at least
+[11:12 AM] fancy: that's why it's complex
+[11:13 AM] A Random Badger: is block perfectly or at least better than the human opponent, which is simple for an ai, last hit again very simple for an ai, and land skill shots etc, all very basic mechanics
+[11:13 AM] fancy: yes
+[11:13 AM] fancy: the execution is simple for those
+[11:13 AM] fancy: figuring out that doing that is worthwhile
+[11:13 AM] fancy: is not
+[11:13 AM] fancy: you and I clearly see why blocking is good
+[11:13 AM] fancy: computers can't
+[11:13 AM] fancy: they don't have that ability
+[11:13 AM] A Random Badger: they do if you tell it
+[11:14 AM] fancy: they have to try every possible action and quantify it
+[11:14 AM] A Random Badger: which is what they did for the original go ai and openai
+[11:14 AM] A Random Badger: they said hey
+[11:14 AM] fancy: they purposely didn't tell it
+[11:14 AM] A Random Badger: these thigns humans do
+[11:14 AM] A Random Badger: cause they thinks its good
+[11:14 AM] fancy: that was the whole point
+[11:14 AM] A Random Badger: so do that
+[11:14 AM] fancy: that's not impressive if you just tell it to execute something
+[11:14 AM] fancy: that's not ai
+[11:14 AM] fancy: that's just a script
+[11:14 AM] fancy: but that's not what the dota ai is
+[11:14 AM] fancy: they gave it almost 0 information
+[11:15 AM] fancy: they just let it go
+[11:15 AM] A Random Badger: yes
+[11:15 AM] A Random Badger: play thousands of hours against itself
+[11:15 AM] A Random Badger: and determine which actions
+[11:15 AM] A Random Badger: increased its win % the msot
+[11:15 AM] fancy: which has evolved a complex algorithm
+[11:15 AM] A Random Badger: and then replicate those actions
+[11:15 AM] fancy: quantifying the usefulness of actions
+[11:15 AM] fancy: that's the complexity
+[11:16 AM] A Random Badger: but this why i think its more complex for an ai to do it in go rather than dota
+[11:16 AM] fancy: in go you can have complete disconnect(edited)
+[11:16 AM] fancy: from each turn(edited)
+[11:16 AM] fancy: mind games aren't nearly as important
+[11:16 AM] fancy: because it's not real time
+[11:17 AM] A Random Badger: its hard to quanitify the usefulness of an action in go because of the fact that you're really just putting a stone in a palce than somehow impacts the boardand other stones around it
+[11:17 AM] fancy: you can give an ai a board state at any point in a game and it can tell you the move with the highest % chance to win
+[11:17 AM] fancy: but in dota it's not quite the same
+[11:18 AM] A Random Badger: but the magnitude as you stated earlier is different
+[11:18 AM] fancy: there's less prediction in go
+[11:18 AM] fancy: yes
+[11:18 AM] A Random Badger: the magnitude of determining the largest % chance to win
+[11:18 AM] A Random Badger: is extremely large
+[11:18 AM] fancy: but magnitude doesn't make complexity
+[11:18 AM] A Random Badger: because it has to read out
+[11:18 AM] A Random Badger: hundreds or even close to a thousand or more moves and orders of moves
+[11:18 AM] fancy: it's trivial to a computer
+[11:19 AM] fancy: to calculate 10000000 calculations
+[11:19 AM] fancy: that's nothing
+[11:19 AM] A Random Badger: it is when you're on a limited time
+[11:19 AM] A Random Badger: after all a computer cant just do it
+[11:19 AM] A Random Badger: isntantly
+[11:19 AM] fancy: it still really isn't
+[11:19 AM] fancy: do you have a frame of reference for how fast computers are
+[11:20 AM] fancy: they're fucking fast
+[11:20 AM] A Random Badger: yes lol
+[11:20 AM] A Random Badger: but i still think that an ai being able to master the mechanics of such a basic scenario in a game like dota is incredibly simple to accomplish for an ai
+[11:20 AM] fancy: I think you're vastly under selling it
+[11:21 AM] A Random Badger: i dont think i am
+[11:21 AM] fancy: you're not seeing how you see it different because you have a human brain
+[11:21 AM] A Random Badger: i think you're not putting the speed of a computers analytics into proportion for dota tho
+[11:21 AM] A Random Badger: just take last hitting for example
+[11:22 AM] A Random Badger: lets put it in the perspective of a human
+[11:22 AM] A Random Badger: you have basically 2 options
+[11:22 AM] A Random Badger: you can guess
+[11:22 AM] A Random Badger: when the hp bar is low enough
+[11:22 AM] A Random Badger: that you can kill it with a single attack
+[11:22 AM] A Random Badger: or
+[11:22 AM] A Random Badger: you can directly click on the enemy minion
+[11:22 AM] A Random Badger: and see its numerical value of hp
+[11:22 AM] A Random Badger: and compare that to your damage
+[11:22 AM] fancy: yes
+[11:22 AM] A Random Badger: and wait until its at its sweet spot
+[11:22 AM] A Random Badger: that 2nd
+[11:22 AM] A Random Badger: option
+[11:23 AM] fancy: no
+[11:23 AM] fancy: it's not
+[11:23 AM] A Random Badger: is incredibly easy for an ai to do
+[11:23 AM] fancy: because they didn't tell it
+[11:23 AM] fancy: it had to learn that
+[11:23 AM] fancy: but what it doesn't have
+[11:23 AM] fancy: is the innate understanding that
+[11:23 AM] fancy: not only is the first last hit good to do
+[11:23 AM] fancy: each and every last hit is good to do
+[11:23 AM] fancy: like if you learn once hey you should last hit because gold is good
+[11:23 AM] fancy: you now know because of intuition
+[11:24 AM] fancy: you should continue doing that
+[11:24 AM] fancy: ai fundamentally can't make that connection
+[11:24 AM] A Random Badger: but i think you're taking elon musk at his word way too much
+[11:24 AM] fancy: except by brute force trial abd error
+[11:24 AM] fancy: I think you're to quick to judge him because you have vested interest
+[11:24 AM] A Random Badger: i highly doubt that the ai went into it with no knowedge
+[11:24 AM] fancy: it did(edited)
+[11:24 AM] A Random Badger: especially if you consider
+[11:25 AM] fancy: that was the entire point
+[11:25 AM] A Random Badger: that as soon as you implement this ai into the game
+[11:25 AM] A Random Badger: it is able to analyze and understand all the basic interactions
+[11:25 AM] A Random Badger: immediately
+[11:25 AM] A Random Badger: just from the game itself
+[11:25 AM] A Random Badger: "hey i have gold"
+[11:25 AM] A Random Badger: "i can buy items with this"
+[11:25 AM] A Random Badger: "i can accumulate more by killing creeps"
+[11:25 AM] fancy: but it doesn't know it should
+[11:25 AM] fancy: or why it should
+[11:26 AM] A Random Badger: ah
+[11:26 AM] A Random Badger: but elonmusk may not have told it
+[11:26 AM] fancy: we can see why we'd want that
+[11:26 AM] fancy: it can't
+[11:26 AM] A Random Badger: but im sure dota itself has
+[11:26 AM] A Random Badger: juyst has it has told us
+[11:26 AM] A Random Badger: just as*
+[11:26 AM] fancy: what do you mean
+[11:26 AM] fancy: dota never tells you why items are good except by words
+[11:26 AM] fancy: computers don't do words
+[11:27 AM] A Random Badger: but words on a computer is just created by code anyways and that a computer can understand
+[11:27 AM] fancy: no it can't
+[11:27 AM] fancy: it doesn't "understand"
+[11:27 AM] fancy: it takes instructions and executes
+[11:27 AM] fancy: it doesn't care why
+[11:27 AM] A Random Badger: yes
+[11:27 AM] fancy: or what that does
+[11:27 AM] A Random Badger: my bad
+[11:27 AM] A Random Badger: which is exactly why
+[11:27 AM] fancy: we didn't tell it to buy items
+[11:28 AM] fancy: or which items to buy
+[11:28 AM] fancy: first iterations of the bots didn't even go to the mid lane
+[11:28 AM] fancy: or leave fountain
+[11:28 AM] fancy: they wandered in the jungle
+[11:28 AM] fancy: or afkd
+[11:28 AM] fancy: at one point it fed couriers
+[11:28 AM] fancy: at one point it didn't skill shadowraze
+[11:29 AM] fancy: it didn't buy items
+[11:29 AM] fancy: it fundamentally can't throw out possibilities
+[11:29 AM] fancy: you and I can sed
+[11:29 AM] fancy: why we shouldn't spend all our money on tangoes(edited)
+[11:29 AM] fancy: but to a bot that's no different from buying stats
+[11:29 AM] fancy: until it tries it 1000 times
+[11:30 AM] fancy: and realizes one is worth more than the other
+[11:30 AM] fancy: you're vastly under selling human intuition
+[11:30 AM] A Random Badger: but its the same thing the go ai had to do
+[11:30 AM] fancy: it's going to be the hardest thing to recreate
+[11:30 AM] fancy: like I said
+[11:30 AM] fancy: go ai has fewer possibility spaces
+[11:30 AM] A Random Badger: it was playing in the center and on the sides before i discovered which areas were more valuable
+[11:30 AM] fancy: all that matters is where the rock goes
+[11:30 AM] fancy: hard for humans
+[11:31 AM] fancy: easier for an ai
+[11:31 AM] A Random Badger: i still think that if that were truly the case it wouldnt have taken this long for an ai to do
+[11:32 AM] fancy: the go ai is hard to make because there are such a large number of moves
+[11:32 AM] fancy: it's not actually possible to calculate them all I think
+[11:32 AM] fancy: so you have to figure out how to tell it to generalize
+[11:32 AM] fancy: or something
+[11:32 AM] fancy: and classify moves as effectively equivalent
+[11:32 AM] fancy: that's where I'd assume the struggle is
+[11:32 AM] A Random Badger: that was they did with the first phase of the ai
+[11:33 AM] fancy: because if you had unlimited processing power you could math out go more easily than dota
+[11:33 AM] A Random Badger: now they have alphago zero
+[11:33 AM] A Random Badger: which played the game knowing nothing
+[11:33 AM] A Random Badger: and is vastly better than the original ai and every single top human opponent in the world
+[11:33 AM] fancy: :thumbsup:
+[11:34 AM] A Random Badger: idk maybe i am just biased
+[11:34 AM] fancy: you're taking human intuition for granted I think
+[11:35 AM] fancy: because as you said
+[11:35 AM] fancy: what you see
+[11:35 AM] fancy: is oh all it has to do is last hit and land spells and block better
+[11:35 AM] fancy: but why do you know that
+[11:35 AM] fancy: how do you know that's how you win mid
+[11:36 AM] A Random Badger: but i still think regardless of which is better and what i am biased towards, that the way elon musk parades his ai as such an accomplishment when it still hasnt accomplished all that much to be quite brutally honest makes him sounds arrogant and it seems like all the man cares about is his E-penis so to speak
+[11:36 AM] fancy: I mean
+[11:36 AM] fancy: if you're going to flame people for wanting to look good in front of others
+[11:36 AM] fancy: you better get some snacks
+[11:37 AM] fancy: because that's literally everyone ever
+[11:37 AM] fancy: and to be fair
+[11:37 AM] fancy: of all people
+[11:37 AM] fancy: he's earned it more than most
+[11:37 AM] fancy: and his ai is an accomplishment(edited)
+[11:37 AM] fancy: does he parade it too much? eh maybe
+[11:37 AM] fancy: but it's whatever
+[11:38 AM] A Random Badger: where as other ai companies like google dedicate their research and accomplishments to the possibility of creating AIs that in he future can accomplish the tasks of a doctor by diagnosing illness much more effectively and effeciently and being able to determine the best treatment for a patient, not just because they mastered a dumb board game or video game.
+[11:38 AM] A Random Badger: thats my problem
+[11:38 AM] A Random Badger: its as if
+[11:38 AM] A Random Badger: he doesnt actually care
+[11:39 AM] fancy: no one actually cared badger
+[11:39 AM] A Random Badger: about the potential value of AI technology
+[11:39 AM] fancy: ever
+[11:39 AM] fancy: everyone is selfish
+[11:39 AM] fancy: all anyone wants to do is feel good about themselves
+[11:39 AM] A Random Badger: sure
+[11:39 AM] fancy: whether that's through martyring yourself or putting yourself up is no different
+[11:40 AM] fancy: morality and nobility is a myth
+[11:40 AM] fancy: in the traditional sense
+[11:40 AM] fancy: and on top of that if he were to find a way to teach a robot intuition
+[11:41 AM] fancy: that would be huge implications for every area of ai
+[11:41 AM] A Random Badger: but the difference between accomplishing such a silly small task as making an AI that can master a dumb game, and simply using that as a stepping stone to being able to create an AI that can efficiently accomplish the tasks of a doctor is vastly greater as an accomplishment and will grow your E-penis a thousand times more than mastering a video game ever will
+[11:41 AM] fancy: according to you
+[11:41 AM] fancy: different strokes for different folks
+[11:41 AM] fancy: he's not a saint
+[11:41 AM] fancy: he's just a dude
+[11:41 AM] A Random Badger: thats the difference bewteen an ignorant fool such as elon musk and the scientists and engineers of google and other AI developers
+[11:42 AM] fancy: a really smart dude
+[11:42 AM] fancy: calling him ignorant is pretty absurd
+[11:43 AM] fancy: you're assigning some universal value to things to prescribe your judgments
+[11:43 AM] A Random Badger: would you call someone parading around that he had sex with the hottest girl in class more ignorant that the man who parades her around for marrying her? cause thats the difference in my mind
+[11:43 AM] fancy: I'd call neither of them ignorant
+[11:43 AM] fancy: because that doesn't make sense
+[11:44 AM] fancy: or I'd call them both ignorant because they are so insecure they need to parade around something that's not actually an accomplishment
+[11:44 AM] fancy: but they're the same
+[11:44 AM] fancy: if you asked me if I'd respect someone who had 9 wives over 40 years over someone who had only 1
+[11:44 AM] fancy: I'd respect the latter more because it's harder
+[11:45 AM] fancy: but neither person is more valuable than the other
+[11:45 AM] fancy: they're just people
+[11:45 AM] A Random Badger: yes and i think its ignorant that you'd rather the fame for the temporary moment rather than gain the respect of countless others
+[11:46 AM] A Random Badger: but i supopse your right about he's just a dude and he can do what he pleases
+[11:46 AM] fancy: what are you talking about
+[11:46 AM] fancy: what do you think ignorant means
+[11:46 AM] fancy: respect is temporary
+[11:46 AM] fancy: just as temporary as fame(edited)
+[11:47 AM] fancy: and they're not even mutually exclusive
+[11:47 AM] A Random Badger: maybe im using the wrong word but i have a small dictionary unfortunately
+[11:47 AM] fancy: lots of famous people I respect
+[11:47 AM] fancy: lots of famous people I don't
+[11:47 AM] fancy: lots of unknown people I respect
+[11:47 AM] fancy: lots of unknowns I don't
+[11:48 AM] fancy: it just seems an awful lot like you don't like him personally for whatever reason
+[11:48 AM] fancy: even though you don't know hardly anything about him
+[11:58 AM] fancy: I can understand a certain amount of distaste I suppose
+[11:58 AM] fancy: if you personally don't like boasting
+[11:58 AM] fancy: but I don't think it portrays ignorance
+[11:58 AM] fancy: because you have to remember
+[11:58 AM] fancy: he does have a brand to promote
+[12:03 PM] A Random Badger: yea i just have a strong distaste for people who boast but seemingly dont do anything with it. i have some respect for him such as his accomplishments with hsi companies bfr and their proposals of its use but to me it just seems like based off the tweets that ive seen of is reactions to his openai accomplishment that he has little more interest in growing this e-penis and net worth rather than the technological advancement himself
+[12:04 PM] fancy: that's always been his goal
+[12:04 PM] fancy: he's not in it for the people
+[12:04 PM] fancy: he sees an idea and is like I want to do that
+[12:04 PM] A Random Badger: yea and i just cant respect someone like that
+[12:04 PM] fancy: he wanted to have a space company
+[12:04 PM] fancy: he made one
+[12:04 PM] fancy: I can totally respect that
+[12:04 PM] fancy: that's fucking hustle
+[12:06 PM] A Random Badger: i just think its flawed and arrogant to go into anything with little appreciation for it other than the potential monetary value of it. which idk as far as his space company, its very possible he does have a strong appreciation for his work there but it doesnt seem that way in the case of openai
+[12:06 PM] fancy: I mean
+[12:06 PM] fancy: he wanted to do it
+[12:06 PM] fancy: so he did it
+[12:07 PM] fancy: that's the whole story
+[12:07 PM] fancy: he lost money on his space company
+[12:07 PM] fancy: it's not about the money
+[12:07 PM] A Random Badger: sure but did he do it because he recognised the monetary value of the accomplishment, the e-penis value, or the technological value
+[12:07 PM] A Random Badger: i mean
+[12:07 PM] fancy: no
+[12:07 PM] A Random Badger: its all really an investment to make more money
+[12:08 PM] fancy: space companies are by design a loss
+[12:08 PM] A Random Badger: even if its not making money now
+[12:08 PM] fancy: you don't get anything from going to space
+[12:08 PM] A Random Badger: but you do if world wide governments wantto make use of it
+[12:09 PM] A Random Badger: then again i dont know enough about space companies
+[12:10 PM] fancy: it's just a lot of sunk cost
+[12:10 PM] fancy: no one makes money off space
+[12:10 PM] fancy: it's a net negative industry
+[12:10 PM] fancy: all you get is satisfaction for curiosity
+[12:11 PM] fancy: it's so expensive
+[12:11 PM] fancy: and yields nothing useful practically speaking
+[12:11 PM] fancy: other than byproducts developed as a part of the process of making things to survive going to space
+[12:13 PM] fancy: but yeah most inventors weren't incentivized by being noble or something(edited)
+[12:13 PM] fancy: they do it out of curiosity
+[12:13 PM] fancy: or passion
+[12:13 PM] fancy: or whatever
+[12:14 PM] fancy: it's all self seeking
+[12:16 PM] A Random Badger: yea youre right i just admire the ones that do things more for the benefit of society rather than just curiosity, but then again i dont hate people who are like that either, i dont hate musk either, i just have a distaste for the way he acted with openai
+[12:17 PM] A Random Badger: i was having this same conversation with ros too seeing as how maybe it'd be something she'd be interesting in discussing
+[12:17 PM] fancy: I don't think those people exist
+[12:18 PM] A Random Badger: little to say that she holds a grudge over it now because she must have a huge hard on for musk and no appreciation for the conversation at all
+[12:18 PM] A Random Badger: apparently
+[12:19 PM] fancy: I don't think that's accurate
+[12:19 PM] A Random Badger: whats not
+[12:19 PM] fancy: she has less patience than I do usually
+[12:19 PM] fancy: what you said about rosz(edited)
+[12:19 PM] A Random Badger: ig
+[12:19 PM] A Random Badger: but she seemed much nastier in response to the conversation
+[12:19 PM] fancy: what did you say
+[12:20 PM] A Random Badger: like almost literally the same things i told you
+[12:20 PM] A Random Badger: how i didnt appreciate how it seems like hes more boastful and concerned more for the monetary value of the accomplishment rather than the technological value of it
+[12:21 PM] A Random Badger: etc etc
+[12:21 PM] A Random Badger: same conversation
+[12:21 PM] A Random Badger: just
+[12:21 PM] A Random Badger: different responses
+[12:21 PM] A Random Badger: im kinda over her at this point tho
+[12:21 PM] A Random Badger: like w.e
+[12:21 PM] fancy: different patiences
+[12:21 PM] A Random Badger: more like little to no respect
+[12:21 PM] fancy: I mean
+[12:21 PM] fancy: no(edited)
+[12:21 PM] A Random Badger: nk?
+[12:21 PM] A Random Badger: no kidding?
+[12:22 PM] A Random Badger: oh
+[12:22 PM] A Random Badger: lol
+[12:22 PM] fancy: lol
+[12:22 PM] A Random Badger: i feel like thats the way it was
+[12:22 PM] A Random Badger: seemed very nasty about the whole thing
+[12:22 PM] fancy: I don't respect your position either except insofar as I recognize it as a valid position to hold
+[12:22 PM] fancy: but I am more patient
+[12:23 PM] fancy: to explain why I think you're wrong
+[12:23 PM] A Random Badger: refused to have a intellectual conversation about something unless its something that can be agreed upon
+[12:23 PM] A Random Badger: and i think tis disrespectful
+[12:23 PM] fancy: she doesn't have the energy
+[12:23 PM] fancy: she's fucking dying man
+[12:23 PM] fancy: lol
+[12:23 PM] A Random Badger: shes held longer conversations before
+[12:23 PM] A Random Badger: it wasnt even long
+[12:24 PM] fancy: yes
+[12:24 PM] fancy: and
+[12:24 PM] A Random Badger: i still hold the position that she doesnt care
+[12:24 PM] A Random Badger: idk why i keep trying
+[12:25 PM] fancy: care about what
+[12:26 PM] A Random Badger: nothing
+[12:26 PM] A Random Badger: we've had the conversation before
+[12:26 PM] A Random Badger: numerous times
+[12:26 PM] A Random Badger: nvm it
+[12:26 PM] A Random Badger: im just over her
+[12:26 PM] A Random Badger: at this point
+[12:27 PM] A Random Badger: she prefers you and pizza and the dota conversations with people who know more anyways
+[12:27 PM] A Random Badger: at least hopefully i can move on to starcraft and meet new people
+[12:27 PM] A Random Badger: hopefully
+[12:27 PM] A Random Badger: but doubtfully
+[12:28 PM] fancy: she and pizza
+[12:28 PM] fancy: don't talk
+[12:28 PM] fancy: why do you keep bringing him up
+[12:30 PM] fancy: like if you have to hate her to get over it then so be it(edited)
+[12:30 PM] A Random Badger: idk i figured he was involved in those conversations to
+[12:30 PM] A Random Badger: but ig not
+[12:30 PM] fancy: but realize that's a choice you're making
+[12:30 PM] A Random Badger: i mean she clearly has no respect or concern for me
+[12:31 PM] fancy: false
+[12:31 PM] A Random Badger: shes not a friend
+[12:31 PM] A Random Badger: anymore
+[12:31 PM] A Random Badger: ig
+[12:31 PM] fancy: badger do you remember when I mentioned
+[12:31 PM] fancy: as did pizza
+[12:31 PM] fancy: that you don't really treat people like friends
+[12:31 PM] A Random Badger: havent i imporved on that
+[12:31 PM] A Random Badger: ?
+[12:31 PM] A Random Badger: i thought i did
+[12:31 PM] A Random Badger: bt ig not
+[12:31 PM] A Random Badger: oh well
+[12:31 PM] A Random Badger: who needs friends
+[12:31 PM] fancy: well
+[12:32 PM] fancy: it's more complicated than that
+[12:32 PM] fancy: and you need to understand I'm not the norm for patience
+[12:32 PM] fancy: nor is pizza
+[12:33 PM] fancy: and I'm only patient as I am because I can understand what it's like to be in your position
+[12:33 PM] fancy: like you're doing better but it's a long road
+[12:33 PM] fancy: and that doesn't undo the past instantly
+[12:33 PM] fancy: and you also have to understand she is a type that has little patience for immaturity
+[12:34 PM] fancy: and then on top of that she's sick and stuck in an unhappy situation(edited)
+[12:34 PM] fancy: she needs extra compassion and consideration
+[12:35 PM] A Random Badger: and ive given her that more than anyone else but oh well
+[12:36 PM] A Random Badger: cause ive not gotta anything in return
+[12:36 PM] A Random Badger: no respect, no consideration, no benefit of the doubt, im just a nuisance apparently
+[12:36 PM] A Random Badger: so why deal with it
+[12:36 PM] A Random Badger: she has other people
+[12:36 PM] A Random Badger: as much as shes like to say she doesnt
+[12:37 PM] A Random Badger: she can replace me easily especially in consideration that i wasnt much of a role anyways apparently
+[12:37 PM] A Random Badger: who needs me
+[12:37 PM] fancy: badger
+[12:37 PM] fancy: holy fucking shh
+[12:37 PM] A Random Badger: i gotta go get chickens and stuff done
+[12:37 PM] A Random Badger: ill be back
+[12:37 PM] fancy: how can you talk about someone like that
+[12:37 PM] fancy: how much do you have to hate someone
+[12:37 PM] fancy: jfc
+[12:38 PM] A Random Badger: thats not hate
+[12:38 PM] A Random Badger: thats dissapointment
+[12:38 PM] A Random Badger: disappointment*
+[12:38 PM] fancy: no
+[12:38 PM] fancy: you're wrong
+[12:38 PM] fancy: that's hate.
+[12:38 PM] fancy: pure and simple
+[12:39 PM] A Random Badger: what did i say that can be portrayed as hate?
+[12:39 PM] A Random Badger: "and ive given her that more than anyone else but oh well"
+[12:39 PM] A Random Badger: by this i mean i gave her more than i gave anyone else, not as in i gave her more than anyone else gave her if thats what you took it as
+[12:40 PM] A Random Badger: that i claimed she has other people and she doesnt need me?
+[12:40 PM] A Random Badger: i beleive that especially if she never considered me much of anything to begin with
+[12:41 PM] A Random Badger: that ive gotten nothing in return?
+[12:41 PM] A Random Badger: yea i might be wrong about that
+[12:41 PM] A Random Badger: what she has given be couldve been genuine
+[12:42 PM] A Random Badger: or my doubts could be correct and shes just overly sympathetic for me cause im a nuisance to her.
+[12:42 PM] A Random Badger: either is a strong possibility in my eyes
+[12:42 PM] A Random Badger: if im not a friend to her and shes not a friend to me, she like the case with dota
+[12:42 PM] A Random Badger: why try to force it
+[12:42 PM] A Random Badger: when its not right
+[12:43 PM] A Random Badger: apparently
+[12:43 PM] A Random Badger: okay now i go do chores
+[12:43 PM] A Random Badger: i be back
+[12:50 PM] fancy: what the fuck do you expect in return
+[12:50 PM] fancy: it's not a fucking economy
+[12:50 PM] fancy: she doesn't have fucking people badger
+[12:51 PM] fancy: her mom fucking doesn't take care of her
+[12:51 PM] fancy: she has like 4 fucking friends
+[12:51 PM] fancy: she's fucking dying
+[12:51 PM] fancy: if anyone deserves fucking charity it's her
+[12:51 PM] fancy: she has fucking nothing
+[12:51 PM] fancy: being her friend isn't fucking easy
+[12:51 PM] fancy: it's fucking work
+[12:52 PM] fancy: she's not a fucking vending machine you put coins in and get love out
+[12:52 PM] A Random Badger: but i cant force myself into the picture if she doesnt want me there
+[12:52 PM] A Random Badger: thats all im concerned about
+[12:53 PM] A Random Badger: if im not the right one to be that #4 or #5 friend whichever i am then so be it
+[12:54 PM] fancy: I need to take a walk before I say something I regret
+[1:06 PM] A Random Badger: i am back
+[1:06 PM] A Random Badger: i mean just say it
+[1:06 PM] A Random Badger: doesnt help me none when people hold shit in
+[1:06 PM] A Random Badger: that only increases my doubt about people
+[1:13 PM] fancy: people can be coloured by emotion in the moment
+[1:14 PM] fancy: I am quite upset.
+[1:15 PM] A Random Badger: over what
+[1:15 PM] fancy: At you
+[1:15 PM] A Random Badger: for what
+[1:16 PM] fancy: don't
+[1:16 PM] fancy: prod me
+[1:16 PM] fancy: I already said
+[1:16 PM] fancy: I need a while
+[1:16 PM] A Random Badger: you just said you needed a walk but if you need a while longer than fine
+[1:17 PM] A Random Badger: just be straight with me when you do say something is all i ask
+[1:18 PM] fancy: do I usually mince words.
+[1:18 PM] A Random Badger: i understand she needs charity and friends but if all im doing is harming the whole thing then i shouldnt be in the picture is all im saying
+[1:18 PM] A Random Badger: i just mean that in response to you not wanting to say something you'll regret
+[4:41 PM] A Random Badger: im thinking of doing more hearthstone again
+[4:42 PM] A Random Badger: i know im forcing myself into these games but i dont have anything i enjoy so i need to find something
+[4:44 PM] A Random Badger: i feel like im doing the same to myself for starcraft even
+[4:44 PM] A Random Badger: cause i dont have the urge to play
+[4:46 PM] fancy: I'm gonna keep telling you
+[4:47 PM] fancy: it's all mentality
+[4:47 PM] fancy: you don't enjoy life so you're not going to enjoy any part of it
+[4:47 PM] A Random Badger: ig so
+[4:47 PM] A Random Badger: but i cant change that
+[4:47 PM] fancy: you can
+[4:47 PM] fancy: I did
+[4:47 PM] fancy: pizza did
+[4:47 PM] fancy: millions of people have done it
+[4:48 PM] fancy: you're not gonna be the one that can't
+[4:48 PM] A Random Badger: idk how to
+[4:48 PM] fancy: you just decide to
+[4:48 PM] fancy: you decide to look for the good in things
+[4:48 PM] fancy: you decide to accept when you have bad feelings, acknowledge them, and then let them go
+[4:48 PM] fancy: you accept when you feel bad about something, realize its unreasonable, and move on
+[4:49 PM] fancy: you don't control your feelings but you control your attitude
+[4:49 PM] fancy: it's all just self discipline and persistence
+[4:49 PM] A Random Badger: thats easier said than done when you believe its you vs universe and everything that happens seems to prove that right more often than not
+[4:49 PM] fancy: yes it is easier said than done
+[4:49 PM] fancy: I never said it's easy
+[4:49 PM] fancy: it's simple
+[4:49 PM] fancy: not easy
+[4:50 PM] fancy: but you have to change
+[4:50 PM] fancy: how you look at it
+[4:50 PM] fancy: and realize the universe isn't out to get you
+[4:50 PM] fancy: it's an inanimate object
+[4:50 PM] fancy: it just is
+[4:50 PM] fancy: you are just like everyone else
+[4:50 PM] fancy: life is what you make of it
+[4:51 PM] fancy: I'm sure you are familiar wth confirmation bias
+[4:51 PM] fancy: you see that the universe is validating your beliefs because that's what you want to believe
+[4:51 PM] fancy: you want to feel justified
+[4:51 PM] fancy: like every person on the planet
+[4:51 PM] fancy: we all seek justification
+[4:52 PM] fancy: we seek validation
+[4:52 PM] fancy: we seek it so much some of us are willing to die trying to get it because they just can't admit they might be wrong
+[4:53 PM] fancy: I too believed only bad things happened to me
+[4:53 PM] A Random Badger: theres just no other explanation is the way i see it
+[4:53 PM] fancy: do you accept that you might be wrong
+[4:53 PM] fancy: and your perspective might be limited
+[4:53 PM] fancy: or distorted
+[4:54 PM] fancy: because that's where it all begins
+[4:54 PM] fancy: fundamentally
+[4:54 PM] fancy: do you think you can be wrong
+[4:54 PM] fancy: do you really truly believe you have the capacity to be wrong
+[4:54 PM] fancy: because believe it or not, lots of people can't believe that
+[4:54 PM] fancy: and that's the first step
+[4:55 PM] fancy: you don't need to answer me
+[4:55 PM] A Random Badger: sure but my problem is i just dont see any other explanation for the things that happen
+[4:55 PM] fancy: but think about it
+[4:55 PM] fancy: really think about it
+[4:55 PM] fancy: and if you're saying that because yeah you answered a question on a test wrong once
+[4:55 PM] fancy: or if you're saying that because you understand that you have a limited perspective
+[4:55 PM] fancy: and you don't have all the facts
+[4:56 PM] fancy: and everything you believe about the universe
+[4:56 PM] fancy: and people
+[4:56 PM] fancy: the existence of a god
+[4:56 PM] fancy: morality
+[4:56 PM] fancy: it could all be completely baseless
+[4:56 PM] A Random Badger: i accept that i could be wrong only based off my belief that anything is possible
+[4:56 PM] fancy: so you don't really
+[4:57 PM] A Random Badger: wym
+[4:58 PM] A Random Badger: its not like i believe some tangible thing is out to get me
+[4:58 PM] A Random Badger: im a believer than everything is based off luck
+[4:58 PM] fancy: you say that
+[4:58 PM] fancy: you say you believe that
+[4:58 PM] fancy: but you don't really
+[4:59 PM] fancy: because if you believed in true randomness
+[4:59 PM] A Random Badger: and i believe that i just happen to have abd luck
+[4:59 PM] fancy: you'd not be upset by it
+[4:59 PM] A Random Badger: and thats why bad things happen
+[4:59 PM] A Random Badger: no other reason for it
+[4:59 PM] fancy: you think you're cursed with bad luck
+[4:59 PM] fancy: which is itself
+[4:59 PM] fancy: would be a manifestation of something out to get you
+[4:59 PM] fancy: because if you did truly believe
+[4:59 PM] fancy: in pure luck
+[4:59 PM] fancy: in chance
+[4:59 PM] fancy: you'd see that all chance equals out
+[5:00 PM] fancy: there's no patterns
+[5:00 PM] fancy: there's nothing causing you to have bad luck
+[5:00 PM] fancy: you would just have luck
+[5:00 PM] fancy: you believe in the concept of you being wrong maybe
+[5:00 PM] fancy: you don't believe in you being wrong
+[5:00 PM] fancy: you see the world
+[5:00 PM] fancy: and you believe that that's how it is
+[5:01 PM] fancy: but you take for granted your own fallability(edited)
+[5:01 PM] fancy: you don't see another way
+[5:01 PM] fancy: because it's all you've ever known
+[5:01 PM] fancy: because you've had one perspective
+[5:01 PM] fancy: and only one
+[5:02 PM] fancy: and when you have only one, it's hard to really believe in the existence of others
+[5:02 PM] fancy: because
+[5:02 PM] fancy: of human intuition
+[5:02 PM] fancy: just like it gives us advantages
+[5:02 PM] fancy: as we discussed earlier
+[5:02 PM] fancy: it also gets in the way
+[5:02 PM] fancy: humans are extremely apt at seeing patterns
+[5:02 PM] fancy: too apt
+[5:03 PM] fancy: because in this arena it hurts us
+[5:03 PM] fancy: because when we get in a bad state of mind
+[5:03 PM] fancy: it's self perpetuating
+[5:03 PM] fancy: seeing patterns where there aren't any
+[5:03 PM] fancy: you know how I have problems arguing with people about dota
+[5:04 PM] fancy: especially when they generally don't know as much as I do
+[5:04 PM] fancy: I have no issue accepting things rosz says
+[5:04 PM] fancy: because the precedent is that she's usually right more often than I am
+[5:04 PM] fancy: but with the rest of you
+[5:04 PM] fancy: it's extremely difficult for me to accept anything you say
+[5:04 PM] fancy: even if you are right
+[5:05 PM] fancy: because precedent is that you all aren't often right
+[5:05 PM] fancy: you're often wrong even
+[5:05 PM] fancy: so even when you are right about something
+[5:05 PM] fancy: my instinct is to deny it
+[5:05 PM] fancy: humans are creatures of habit and conditioning
+[5:05 PM] fancy: so if you learn to condition yourself
+[5:06 PM] fancy: you gain an absurd amount of power of your own mentality
+[5:06 PM] fancy: I speak from experience
+[5:06 PM] fancy: I speak as someone who still struggles
+[5:06 PM] fancy: who is still learning
+[5:06 PM] fancy: who still slips up
+[5:06 PM] fancy: who still spends some nights feeling the call
+[5:06 PM] fancy: to slip back into the cycle
+[5:06 PM] fancy: of self-fulfilling disappointment
+[5:06 PM] fancy: and despair
+[5:07 PM] fancy: who can't watch music videos about love
+[5:07 PM] fancy: without missing the one person he never wants to have a relationship with again
+[5:07 PM] fancy: because he misses what he once thought was true
+[5:09 PM] A Random Badger: yet you hit a point in your life where everything you once believed was suddenly proven wrong or at least no entirely correct
+[5:11 PM] A Random Badger: i have never hit that point because i only have my bad luck, and while i acknowledge pure luck and believe in it the reason i state i have bad luck is for the simple reason that it is only during non impactful moments when i have good luck and impactful moments when i have bad  luck
+[5:11 PM] A Random Badger: hence why i have had incredibly good luck in gambling
+[5:11 PM] A Random Badger: why i was good at math
+[5:11 PM] fancy: once again
+[5:11 PM] fancy: You see what you want to see
+[5:11 PM] A Random Badger: why i never had to do homework and just understood everything
+[5:11 PM] fancy: What am I badger
+[5:11 PM] fancy: am I bad luck
+[5:11 PM] fancy: what is taw, if you chose to accept it
+[5:12 PM] fancy: we're all willing to accept you
+[5:12 PM] fancy: to help you
+[5:12 PM] A Random Badger: taw was bad luck overall
+[5:12 PM] A Random Badger: you guys were good luck overall
+[5:12 PM] fancy: if you never join taw
+[5:12 PM] A Random Badger: but neither is very impactful in my life
+[5:12 PM] fancy: you never meet me
+[5:12 PM] A Random Badger: and it wouldnt have mattered
+[5:13 PM] A Random Badger: cause thats not an impactful moment in my life
+[5:13 PM] fancy: really
+[5:13 PM] A Random Badger: youre a friend
+[5:13 PM] fancy: you're going to tell me
+[5:13 PM] fancy: that nothing I say
+[5:13 PM] fancy: or the hours I've spent
+[5:13 PM] fancy: trying to help you
+[5:13 PM] fancy: that's meaningless?
+[5:13 PM] fancy: is that what you're telling me
+[5:13 PM] fancy: that I'm wasting my time
+[5:13 PM] fancy: because I saw someone who needs help
+[5:13 PM] fancy: who's confused
+[5:14 PM] fancy: and I chose of my own free will
+[5:14 PM] fancy: to try to help?
+[5:14 PM] fancy: that means nothing to you?
+[5:14 PM] fancy: because if it is
+[5:14 PM] fancy: if that's true
+[5:14 PM] fancy: everything you've ever said about friends is a lie
+[5:14 PM] fancy: you don't want friends
+[5:14 PM] fancy: you don't care about them
+[5:15 PM] fancy: and you're no better than elon musk, who you deign to criticize as ignorant
+[5:15 PM] fancy: in your eyes at least
+[5:15 PM] fancy: ...
+[5:15 PM] fancy: that fucking hurts man
+[5:15 PM] fancy: that's one of the worst things you could say to someone who's only ever tried to help
+[5:26 PM] A Random Badger: you are a person i can play game with and talk to and have nice conversations with and even someone who tries to help me but thats not enough to disprove my bad luck because it was still the incredibly impactful things that i had bad luck with. how i was rejected bye veryone growing up, how i was bullied,
+[5:26 PM] A Random Badger: how i became a bully and got mixed with the wrong group of "friends" how i never learned how to hold proper social interaction, how i never found love, how i never had decent parents or was raised correctly, how i was poisoned by a terrible mentality and anxiety and depression, how the only "caring" irl friends that i now do have dont actually care all that much, how it took me forever to find a decent job and how im not even doing well at because i havent made any friends and i still find myself rejected by most of my co-workers, how a majority of my online friends never gave a shit, were sometimes toxic, or just decided to leave, how i still suffer from terrible ties of a terrible family, how i became a fucking memer even tho i was intelligent when i went through high school, how that intelligence was denied by the people and faculty around me because i didnt feel the need to do homework, how i was and still am hated by nearly every single person i ever knew when i went to high school and i have to see a lot of them every time i go to work, how i have to suffer through not giving up over the fear that my sister or my mother will follow in my footsteps,
+[5:26 PM] A Random Badger: how i have to suffer on my own because im not acknowledged to have problems like i do because im a dude yet im still expected to help others, how i can never sleep for shit, how i cant dream anymore and only live with nightmares, how i constantly have to doubt myself and other people based off past experiences and how every attempt i made to leave got shut out. the good things that happened to me? i was smart, was, i have a sister who cares for the most part, i have a "friend" who offered a place for me so that i could get out of my current situation only really because i was the only other reliable person she knew and knew i would stick to myself and not bother her, that my step father got me into gaming and got to make some friends online even if i hardly ever did in life, that i used to be able enjoy myself and used to be skilled at certain games. how i met some particular great people that do seem to care. and idek what else.
+[5:29 PM] A Random Badger: the magnitude of the bad things that have happened to me severely outweigh the magnitude of the good things
+[5:29 PM] A Random Badger: i believe in pure luck
+[5:29 PM] A Random Badger: a 50% chance for both bad and good results
+[5:30 PM] A Random Badger: however i also believe that it is mathematically entirely possible that it doesnt neccessarily mean you will be granted with 50% good and 50% bad
+[5:30 PM] A Random Badger: some people are blessed with a magnitude of a majority of good luck
+[5:30 PM] A Random Badger: others bad
+[5:31 PM] A Random Badger: some so bad they never even got a chance to do anything about it
+[5:31 PM] A Random Badger: this is why i believe the things i do and why i see no other explanation
+[5:31 PM] fancy: I don't know
+[5:31 PM] A Random Badger: i once believe it was just god hated me
+[5:31 PM] A Random Badger: i no longer believe in god
+[5:31 PM] fancy: how you expect me to continue this
+[5:31 PM] fancy: do you understand
+[5:31 PM] fancy: how hurtful
+[5:32 PM] fancy: what you said was
+[5:32 PM] fancy: you don't
+[5:32 PM] fancy: and I know you don't
+[5:32 PM] fancy: because I didn't understand until just now
+[5:32 PM] fancy: how hurtful it was when I did that to pizza
+[5:32 PM] fancy: I knew it was
+[5:32 PM] fancy: but I didn't understand
+[5:32 PM] fancy: I'm fucking almost crying
+[5:34 PM] fancy: I wish
+[5:34 PM] fancy: I wish more than fucking anything
+[5:34 PM] fancy: I could show you
+[5:34 PM] A Random Badger: i believe that the only way for people to truly understand each other is through mutual pain and suiffering
+[5:34 PM] fancy: what I was
+[5:34 PM] fancy: two years ago
+[5:34 PM] fancy: three years go
+[5:34 PM] fancy: 4 years ago
+[5:34 PM] fancy: because you're almost exactly fucking the same
+[5:35 PM] fancy: you see all the bad
+[5:35 PM] fancy: you focus on it
+[5:35 PM] fancy: you don't appreciate that you have food
+[5:35 PM] fancy: a place to live
+[5:35 PM] fancy: that you've found people that actually love you
+[5:35 PM] A Random Badger: because whats the purpose of those basic things if you cant even make something of yourself
+[5:35 PM] fancy: you haven't found romance but you're fucking 19
+[5:35 PM] fancy: I haven't found it either
+[5:35 PM] fancy: BADGER
+[5:35 PM] fancy: LISTEN TO YOURSELF
+[5:35 PM] fancy: WHAT'S THE FUCKING POINT OF FOOD?
+[5:36 PM] fancy: to fucking SURVIVE
+[5:36 PM] fancy: there people that don't even have THAT
+[5:36 PM] fancy: can you not see
+[5:36 PM] fancy: how fucking absurd you're being
+[5:37 PM] A Random Badger: and what point does surviving become actually living, because i dont see the point in just surviving
+[5:37 PM] A Random Badger: and yes
+[5:37 PM] A Random Badger: i do
+[5:37 PM] A Random Badger: everyday
+[5:37 PM] A Random Badger: i wish
+[5:37 PM] fancy: so stop
+[5:37 PM] A Random Badger: that i could trade places
+[5:37 PM] fancy: you control
+[5:37 PM] fancy: your life
+[5:37 PM] A Random Badger: with someone mroe deserving than i
+[5:37 PM] fancy: you control
+[5:37 PM] fancy: your fucking attitude
+[5:37 PM] fancy: stop feeling sorry for yourself
+[5:37 PM] fancy: and own your own existence
+[5:37 PM] A Random Badger: because i do not deserve the things i am provided
+[5:37 PM] fancy: NO ONE DOES
+[5:37 PM] fancy: life isn't about deserving
+[5:37 PM] fancy: life is not fair
+[5:38 PM] fancy: there is no concept of fairness
+[5:38 PM] A Random Badger: i dont feel sorry for myself
+[5:38 PM] A Random Badger: ive only felt sorry for others
+[5:38 PM] fancy: no badger
+[5:38 PM] fancy: you are
+[5:38 PM] A Random Badger: how you have to suffer just to try to help me
+[5:38 PM] A Random Badger: when you shouldnt
+[5:38 PM] fancy: emphatically
+[5:38 PM] fancy: feeling sorry for yourself
+[5:38 PM] fancy: this is what feeling sorry for yourself looks like
+[5:39 PM] A Random Badger: no because i only want people to believe that i am a lost cause so that they may continue on with their lives without worrying about me, without me burdening them
+[5:39 PM] A Random Badger: all i know is how to survive
+[5:39 PM] A Random Badger: thats all i need
+[5:39 PM] fancy: BADGER
+[5:39 PM] fancy: THAT IS
+[5:40 PM] fancy: text fucking book
+[5:40 PM] A Random Badger: i will endure the suffering like a deserved death sentence
+[5:40 PM] fancy: feeling sorry for yourself
+[5:40 PM] fancy: stop denying it
+[5:40 PM] fancy: fuck
+[5:42 PM] A Random Badger: but i do not feel genuine sadness
+[5:42 PM] A Random Badger: i do not know how to explain it
+[5:42 PM] fancy: I can't believe that you don't believe a single word I've ever said
+[5:42 PM] A Random Badger: i feel depressed
+[5:42 PM] fancy: YOU DON'T HAVE TO
+[5:42 PM] A Random Badger: but i dont beleive
+[5:42 PM] fancy: I'VE LIVED THIS
+[5:42 PM] fancy: fucking hell
+[5:42 PM] fancy: I know
+[5:42 PM] fancy: the feeling
+[5:42 PM] fancy: it's not a feeling
+[5:42 PM] fancy: you're just fucking numb
+[5:42 PM] fancy: you don't feel
+[5:42 PM] fancy: you just accept
+[5:42 PM] A Random Badger: yes
+[5:42 PM] fancy: you resign yourself
+[5:42 PM] A Random Badger: yes
+[5:42 PM] fancy: to your fate
+[5:42 PM] A Random Badger: yes
+[5:42 PM] fancy: because you don't think you can do anything about it
+[5:43 PM] fancy: and furthermore
+[5:43 PM] fancy: you don't think
+[5:43 PM] fancy: you're worth saving
+[5:43 PM] fancy: you don't think
+[5:43 PM] fancy: you deserve
+[5:43 PM] fancy: to be born to two MIT graduates
+[5:43 PM] fancy: two fucking certifiable geniuses
+[5:43 PM] fancy: who fucking work
+[5:43 PM] fancy: hours on fucking end
+[5:43 PM] fancy: 24/7
+[5:43 PM] fancy: give up their dreams
+[5:43 PM] fancy: their passions
+[5:43 PM] fancy: to give you
+[5:43 PM] fancy: every fucking thing they can
+[5:44 PM] fancy: to set you up for fucking success
+[5:44 PM] fancy: and yet
+[5:44 PM] fancy: you can barely even finish god damn high school
+[5:44 PM] fancy: it because you aren't able
+[5:44 PM] fancy: but because you give up
+[5:44 PM] fancy: because you don't have fucking any care
+[5:44 PM] fancy: about yourself
+[5:44 PM] fancy: you see everyone else
+[5:44 PM] fancy: you see how they have value
+[5:44 PM] fancy: you do everything you fucking can for them
+[5:44 PM] fancy: but you hate yourself
+[5:45 PM] fancy: you don't eat right
+[5:43 PM] fancy: hours on fucking end
+[5:43 PM] fancy: 24/7
+[5:43 PM] fancy: give up their dreams
+[5:43 PM] fancy: their passions
+[5:43 PM] fancy: to give you
+[5:43 PM] fancy: every fucking thing they can
+[5:44 PM] fancy: to set you up for fucking success
+[5:44 PM] fancy: and yet
+[5:44 PM] fancy: you can barely even finish god damn high school
+[5:44 PM] fancy: it because you aren't able
+[5:44 PM] fancy: but because you give up
+[5:44 PM] fancy: because you don't have fucking any care
+[5:44 PM] fancy: about yourself
+[5:44 PM] fancy: you see everyone else
+[5:44 PM] fancy: you see how they have value
+[5:44 PM] fancy: you do everything you fucking can for them
+[5:44 PM] fancy: but you hate yourself
+[5:45 PM] fancy: you don't eat right
+[5:45 PM] fancy: you don't sleep right
+[5:45 PM] fancy: you don't take care of yourself because you don't think you're worth it
+[5:45 PM] fancy: you get alienated because you're smart
+[5:45 PM] fancy: you never learn to have normal interactions
+[5:45 PM] fancy: the only interactions you have
+[5:45 PM] fancy: are when you're fucking
+[5:45 PM] fancy: kneeling at their fucking feet
+[5:45 PM] fancy: serving them
+[5:45 PM] fancy: letting them
+[5:45 PM] fancy: take advantage of you
+[5:46 PM] fancy: because you're so god damn lonely
+[5:46 PM] fancy: you'd take any kind of attention
+[5:46 PM] fancy: you spend your time
+[5:46 PM] fancy: thinking about
+[5:46 PM] fancy: how everyone doesn't actually like you
+[5:46 PM] fancy: you feel bad for making them put up with you(edited)
+[5:46 PM] fancy: you feel bad for fucking existing
+[5:47 PM] fancy: because there's fucking people in Africa who don't have a fucking roof
+[5:47 PM] fancy: or shoes
+[5:47 PM] fancy: or fucking clean water
+[5:47 PM] fancy: and here you are
+[5:47 PM] fancy: sitting on your ass
+[5:47 PM] fancy: in a house
+[5:47 PM] fancy: that your parents own
+[5:47 PM] fancy: don't even owe money on
+[5:47 PM] fancy: never being hungry
+[5:47 PM] A Random Badger: the only differences are that i definitely think i deserved this family, and that i didnt get alienated because i was smart but because i didnt have grades, and that i used my feeling of loniliness to empower the fate that i deserve nothing but that
+[5:47 PM] fancy: always having an education(edited)
+[5:48 PM] fancy: always having your basic needs filled
+[5:48 PM] fancy: and you still feel like complete shit
+[5:48 PM] fancy: because you feel alone
+[5:48 PM] fancy: but your only enemy is yourself
+[5:48 PM] fancy: and then you drown yourself in games
+[5:48 PM] fancy: because it numbed the pain
+[5:48 PM] fancy: you stop going to class
+[5:49 PM] fancy: you sleep through the ones you go to
+[5:49 PM] A Random Badger: only now the games dont numb anything anymore
+[5:49 PM] fancy: you don't talk to the people that used to talk to you
+[5:49 PM] fancy: you push everyone away
+[5:49 PM] fancy: people try to reach out to you
+[5:49 PM] fancy: but you refuse to see it
+[5:49 PM] fancy: because you think
+[5:49 PM] fancy: you know yourself better than anyone else ever could
+[5:49 PM] fancy: and its just a matter of time
+[5:49 PM] fancy: before they figure out
+[5:49 PM] fancy: you're worthless
+[5:50 PM] fancy: and so you preemtively
+[5:50 PM] fancy: keep everyone out
+[5:50 PM] fancy: you build yourself a fortress
+[5:50 PM] fancy: of misery
+[5:50 PM] fancy: and you're its king
+[5:50 PM] fancy: and sole occupant(edited)
+[5:50 PM] fancy: that feeling?
+[5:51 PM] fancy: yeah
+[5:51 PM] fancy: you could say I know that feeling
+[5:51 PM] A Random Badger: for the most part anyways
+[5:51 PM] fancy: and that's feeling sorry for yourself
+[5:52 PM] A Random Badger: ig
+[5:52 PM] A Random Badger: but i still believe i deserve nothing more than the fate before me
+[5:52 PM] fancy: no
+[5:52 PM] A Random Badger: it is my punishment
+[5:52 PM] fancy: it's not a guess
+[5:52 PM] fancy: it is the truth
+[5:52 PM] fancy: and no
+[5:52 PM] fancy: there's no concept of deserve
+[5:52 PM] fancy: if you do nothing
+[5:52 PM] fancy: you will be miserable
+[5:53 PM] fancy: but you have the choice
+[5:53 PM] fancy: to do something different
+[5:53 PM] fancy: you are
+[5:53 PM] fancy: the owner of your life
+[5:53 PM] fancy: no one else
+[5:53 PM] fancy: you are responsible for your fate
+[5:55 PM] A Random Badger: it is hard for my to agree when i disagree that there is no concept of deserve
+[5:57 PM] A Random Badger: its funny cause the huge difference between me and you/pizza are our parents
+[5:57 PM] fancy: pizzas parents aren't supportive
+[5:57 PM] fancy: like
+[5:57 PM] fancy: yes
+[5:57 PM] fancy: your parents weren't the best
+[5:57 PM] fancy: get over it
+[5:57 PM] A Random Badger: yes but he stated about not wanting to be an eternal disappointment to them
+[5:57 PM] fancy: at some point you have to stop blaming them
+[5:57 PM] A Random Badger: and thats not my point
+[5:57 PM] A Random Badger: im not saying
+[5:58 PM] A Random Badger: the difference is my parents were bad
+[5:58 PM] fancy: that's not a huge difference at all
+[5:58 PM] fancy: it's completely minor
+[5:58 PM] A Random Badger: im saying that my parents are a mirror of the very fate i believe is for me
+[5:58 PM] fancy: the whole point is its all in your head
+[5:58 PM] A Random Badger: where you're parents were successful and had lives
+[5:58 PM] A Random Badger: mine did not and still do no
+[5:59 PM] A Random Badger: and i only see myself as sharing their same fates
+[5:59 PM] fancy: if you decide that's what your life is
+[5:59 PM] fancy: that's what it will be
+[5:59 PM] A Random Badger: yes
+[5:59 PM] fancy: so just choose something else
+[5:59 PM] A Random Badger: because thats what i feel i deserve
+[6:00 PM] fancy: why can't you choose something else
+[6:00 PM] fancy: what's stopping you
+[6:00 PM] A Random Badger: because i do not deserve better
+[6:00 PM] fancy: SAYS FUCKING WHO
+[6:00 PM] A Random Badger: says i
+[6:00 PM] fancy: your fucking brain?
+[6:00 PM] fancy: well guess what badger
+[6:00 PM] fancy: you're fucking 19
+[6:00 PM] fancy: you don't know shit
+[6:01 PM] fancy: maybe try trusting some other people who tell you that you can deserve more
+[6:01 PM] fancy: if you do nothing
+[6:01 PM] fancy: you deserve nothing
+[6:01 PM] A Random Badger: know but i understand who i am and i know that i am not the type of person who deserves better
+[6:01 PM] fancy: if you do something
+[6:01 PM] fancy: you deserve something
+[6:01 PM] fancy: do you not see
+[6:01 PM] fancy: how that's exactly
+[6:01 PM] fancy: what I just described
+[6:01 PM] fancy: that you don't think you're worth anything
+[6:02 PM] A Random Badger: yes
+[6:02 PM] fancy: and you don't think anyone else knows you well enough
+[6:02 PM] fancy: well I was fucking wrong
+[6:02 PM] A Random Badger: because i view myself as a bad person
+[6:02 PM] fancy: when I thought that
+[6:02 PM] fancy: you think I think I'm a good person?
+[6:02 PM] fancy: you think pizza always thinks he's a good person?
+[6:02 PM] fancy: you don't see
+[6:02 PM] fancy: the same things
+[6:02 PM] fancy: we see
+[6:03 PM] A Random Badger: i cannot say what types of people you are and what you deserve all i know is my life and my believe of what i deserve
+[6:03 PM] fancy: and you're
+[6:03 PM] fancy: fucking
+[6:03 PM] fancy: dead
+[6:03 PM] fancy: ass
+[6:03 PM] fancy: wrong
+[6:03 PM] fancy: just like every other teenager
+[6:04 PM] fancy: the only way you deserve nothing is if you do nothing.
+[6:04 PM] fancy: the entire world
+[6:04 PM] A Random Badger: the problem is i do not have the motivation and energy to do somethign with myself even if i decided i deserved better and i would only end up like my father
+[6:04 PM] fancy: is out there for you to take
+[6:04 PM] fancy: badger you don't believe in fucking luck
+[6:04 PM] fancy: stop lying to yourself
+[6:05 PM] A Random Badger: id rather submit to my fate than become somethign worse
+[6:05 PM] fancy: and to me
+[6:05 PM] fancy: it's so clear
+[6:05 PM] fancy: there is no such thing as fate
+[6:05 PM] fancy: you can't believe in fate and also believe there is no god
+[6:05 PM] fancy: nothing has decided your life
+[6:05 PM] A Random Badger: unless i believe that i make my own fate
+[6:05 PM] fancy: other than yourself
+[6:05 PM] A Random Badger: yes
+[6:05 PM] fancy: then you must accept
+[6:05 PM] fancy: you are choosing
+[6:05 PM] fancy: to be miserable
+[6:05 PM] fancy: you are choosing to fail
+[6:06 PM] A Random Badger: and i do not want to risk becoming a terrible person
+[6:06 PM] A Random Badger: i'd rather fail
+[6:06 PM] fancy: badger
+[6:06 PM] A Random Badger: than risk becoming something worse
+[6:06 PM] fancy: I'm telling you
+[6:06 PM] fancy: being nothing
+[6:06 PM] fancy: our of fear of failure
+[6:06 PM] fancy: is worse than failing
+[6:06 PM] fancy: because there's nothing there
+[6:06 PM] fancy: there's no substance
+[6:07 PM] fancy: you can work with someone who's willing to try
+[6:07 PM] fancy: because they can eventually succeed
+[6:07 PM] A Random Badger: i cant risk becoming what i know is inside me
+[6:07 PM] A Random Badger: i just cant
+[6:07 PM] fancy: you are guaranteeing you're the worst possible outcome
+[6:07 PM] fancy: by choosing to never improve
+[6:07 PM] fancy: by choosing to do nothing
+[6:07 PM] fancy: the only way you become like him
+[6:07 PM] fancy: is by not trying
+[6:07 PM] A Random Badger: no
+[6:07 PM] A Random Badger: because he tried
+[6:07 PM] fancy: yes badger
+[6:08 PM] A Random Badger: i know he did
+[6:08 PM] fancy: no
+[6:08 PM] fancy: because people who try
+[6:08 PM] fancy: aren't terrible people
+[6:08 PM] fancy: you think you've figured the world out at 19
+[6:08 PM] A Random Badger: he's not even necessarily a terrible person
+[6:08 PM] fancy: you think you're smarter than everyone
+[6:08 PM] A Random Badger: he's just someone i dont want to risk becoming
+[6:08 PM] fancy: that's what you're telling me
+[6:09 PM] A Random Badger: i dont need to know the world to know the risks of what may happen
+[6:09 PM] fancy: badger as far as I'm concerned
+[6:09 PM] fancy: you're already him
+[6:09 PM] fancy: you've given up
+[6:10 PM] A Random Badger: what am i supposed to do if i go out and try to make something of myself and i break
+[6:10 PM] A Random Badger: and i become a drunk
+[6:11 PM] A Random Badger: ad i treat eveyone like shit
+[6:11 PM] A Random Badger: and i die alone
+[6:11 PM] fancy: you've already done it
+[6:11 PM] fancy: if you never try
+[6:11 PM] fancy: you're no better than he(edited)
+[6:12 PM] A Random Badger: but if i seclude myself then there is no risk of me doing something terrible
+[6:12 PM] fancy: seclusion is already terrible
+[6:12 PM] fancy: you're hurting yourself and everyone who cares about you
+[6:14 PM] A Random Badger: i wish this conversation would make me begin to waver
+[6:14 PM] A Random Badger: but i am not
+[6:14 PM] A Random Badger: and i am still numb
+[6:14 PM] A Random Badger: and i dont know what i am supposed to do aboout that
+[6:14 PM] A Random Badger: if i cant be convinced
+[6:16 PM] A Random Badger: i dont even know how someone could begin to convince me that i shouldnt do to myself what i plan on doing
+[6:23 PM] fancy: because you don't care what other people think
+[6:25 PM] A Random Badger: i dont know if its that i dont care or if im just really stubborn to stick to my path
+[6:27 PM] fancy: it's both
+[6:27 PM] fancy: you don't think you can be wrong
+[6:27 PM] fancy: I didn't either
+[6:28 PM] A Random Badger: i just dont think i deserve anything better
+[6:28 PM] A Random Badger: idk what else to say
+[6:29 PM] A Random Badger: i just dont think i deserve anything better
+[6:29 PM] A Random Badger: regardless of what i want
+[6:29 PM] fancy: you refuse to try
+[6:29 PM] fancy: you don't do anything to change anything
+[6:29 PM] fancy: you want to be miserable
+[6:29 PM] A Random Badger: because im afraid i will make things worse
+[6:29 PM] A Random Badger: not for myself
+[6:29 PM] fancy: and you're getting exactly what you want
+[6:29 PM] A Random Badger: bu for others
+[6:30 PM] A Random Badger: yes
+[6:30 PM] A Random Badger: i want to be miserable
+[6:30 PM] A Random Badger: because i dont want to risk others
+[6:30 PM] fancy: too late badger
+[6:30 PM] fancy: you're hurting me
+[6:30 PM] fancy: you hurt roszara
+[6:30 PM] fancy: you're probably hurting pizza
+[6:30 PM] fancy: I already made him go through this once
+[6:31 PM] fancy: and because he's a hero too
+[6:31 PM] fancy: he'll do it again
+[6:31 PM] fancy: he can't help himself
+[6:31 PM] A Random Badger: ill be back, i need to go get dinner ig
+[6:31 PM] A Random Badger: but what if i end up hurting people worse if i try to change
+[6:32 PM] A Random Badger: i remember when i first went on my medication
+[6:32 PM] A Random Badger: i started feeling like myself for the first time
+[6:32 PM] A Random Badger: and after a while
+[6:32 PM] A Random Badger: i started become angry and irritable
+[6:32 PM] A Random Badger: at everyone and everything
+[6:32 PM] A Random Badger: and i dont want to become that
+[6:32 PM] A Random Badger: i dont want to go back tot hat
+[6:32 PM] A Random Badger: because im afraid thats who i really am
+[6:33 PM] A Random Badger: so i'd rather be miserable and resign to a fate i view as better than that
+[6:36 PM] fancy: Badger you're going to hurt people in life
+[6:36 PM] fancy: it's inevitable
+[6:36 PM] fancy: you learn to say you're sorry
+[6:36 PM] fancy: and learn to be better
+[6:36 PM] fancy: and change
+[6:36 PM] fancy: and grow
+[6:37 PM] fancy: that's what life is
+[6:37 PM] fancy: you don't start perfect
+[6:37 PM] fancy: nowhere close
+[6:37 PM] fancy: but you're hurting us by hating yourself
+[6:48 PM] A Random Badger: Then idk
+[7:17 PM] A Random Badger: im back
+[7:17 PM] A Random Badger: but yea i wouldnt know how or where to start
+[7:17 PM] A Random Badger: to
+[7:17 PM] A Random Badger: not hate myslef
+[7:18 PM] A Random Badger: i just do
+[7:18 PM] A Random Badger: and i have for a very long time
+[7:22 PM] A Random Badger: i start getting into hearthstone
+[7:27 PM] fancy: do you like hating yourself
+[7:27 PM] A Random Badger: no
+[7:27 PM] A Random Badger: but
+[7:27 PM] A Random Badger: well
+[7:27 PM] fancy: so change
+[7:27 PM] A Random Badger: ive said it already
+[7:27 PM] fancy: choose one thing
+[7:27 PM] fancy: do it different
+[7:28 PM] fancy: if you fail
+[7:28 PM] fancy: say
+[7:28 PM] fancy: I failed
+[7:28 PM] fancy: but it's okay
+[7:28 PM] fancy: I'll do better next time
+[7:28 PM] fancy: accept yourself where you are at
+[7:28 PM] fancy: and commit to yourself to do better
+[7:28 PM] fancy: that's what we all have to do
+[7:29 PM] fancy: every day find 3 things
+[7:29 PM] fancy: that were good
+[7:29 PM] fancy: and reflect on them
+[7:30 PM] fancy: focus on the positives and let the negatives pass
+[7:30 PM] fancy: write down your feelings every time something happens
+[7:30 PM] fancy: and reflect on them the next day
+[7:31 PM] fancy: these are all things you can start doing today
+[7:31 PM] fancy: even doing one of them
+[7:31 PM] fancy: just start somewhere
+[7:31 PM] fancy: anywhere
+[7:32 PM] fancy: it doesn't matter
+[7:32 PM] fancy: there's a concept
+[7:32 PM] fancy: called non zero days
+[7:32 PM] fancy: the theory is simply to have no more non zero days
+[7:32 PM] fancy: a zero day is where you don't do anything at all to better things
+[7:32 PM] fancy: you get up on time?
+[7:32 PM] fancy: non zero
+[7:33 PM] fancy: you read for 15 minutes about something you want to learn?(edited)
+[7:33 PM] fancy: non zero
+[7:33 PM] fancy: start small
+[7:33 PM] fancy: change takes time
+[7:33 PM] fancy: and persistence(edited)
+[7:33 PM] fancy: build up
+[7:34 PM] fancy: gradually add more things
+[7:34 PM] fancy: don't change everything all at once
+[7:34 PM] fancy: humans don't handle change well
+[7:35 PM] fancy: break it down into small pieces
+[7:35 PM] fancy: accept that you will slip
+[7:35 PM] fancy: you'll miss a day
+[7:35 PM] fancy: use that as a reason to make sure you don't miss the next day
+[7:35 PM] fancy: the past is over
+[7:35 PM] fancy: it cant be changed
+[7:36 PM] fancy: I'll never get back the three years I spent in tears over a girl who I'm not even sure ever loved me
+[7:36 PM] fancy: that's life
+[7:36 PM] fancy: I have many years left
+[7:36 PM] fancy: might as well not ruin those too
+[7:36 PM] fancy: would have been nice to have all good years
+[7:36 PM] fancy: all good days
+[7:36 PM] fancy: but I'll take what I can get
+[7:58 PM] A Random Badger: i suppose
+[7:58 PM] A Random Badger: i guess ill have a use for this book i bought now at least

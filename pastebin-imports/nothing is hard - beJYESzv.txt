@@ -101,7 +101,7 @@
 [12:28 PM] Lin: In savage, I see a tension between forcing a higher degree of coordination, and being able to salvage mishaps
 [12:28 PM] Lin: You can’t have both, unless you aggressively offload healing and mit responsibility to dps
 [12:29 PM] shin: most mitigation responsibility is already owned by tanks and dps
-[12:29 PM] Lin: Like multiple times second wind and riddle of earth
+12:29 PM] Lin: Like multiple times second wind and riddle of earth
 [12:29 PM] shin: healers I believe all have only 4 collective mitigations between them
 [12:29 PM] Lin: Regen healers get one mit
 [12:29 PM] Lin: Shield healers tend to get 2-3

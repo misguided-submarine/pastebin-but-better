@@ -1,0 +1,568 @@
+[18:14][FC]<F'urytael Katt> is there any problem if I raid without bis?
+[18:14][FC]<Shin Hi> with how much I hate low level content
+[18:14][FC]<Shin Hi> still worth it
+[18:14][FC]<Von Tugen> ya the cutscenes add 100 hours
+[18:14][FC]<Von Tugen> if u skip em its fast
+[18:14][FC]<Shin Hi> depends if you care about performing well
+[18:14][FC]<F'urytael Katt> Savage ilevel requirements are low anyway
+[18:15][FC]<Shin Hi> you're not clearing savage at min ilvl
+[18:15][FC]<Shin Hi> unless you're an extremly good player
+[18:15][FC]<Shin Hi> with 7 other extremely good players
+[18:15][FC]<F'urytael Katt> like i490 should be totally fine for the current savage tier
+[18:15][FC]<Mocha Caramel> you don't want to raid min ilvl but if you're not BiS (like some tome pieces) that's not going to hold you back.
+[18:15][FC]<Shin Hi> that's not min ilvl lol
+[18:15][FC]<Mocha Caramel> yeah min is i480
+[18:16][FC]<F'urytael Katt> and they only need phantas, which isn't weekly capped
+[18:16][FC]<Mocha Caramel> or 475?
+[18:16][FC]<Shin Hi> shiva is 480
+[18:16][FC]<Kadlyk Caramel> its 475 but shiva is 480 yeah
+[18:16][FC]<F'urytael Katt> I mean you can get 490 without any weekly currency
+[18:16][FC]<Shin Hi> 470/475/480/480
+[18:16][FC]<Shin Hi> for this tier
+[18:17][FC]<Shin Hi> so probably 500/505/510/510 for next tier
+[18:17][FC]<Von Tugen> well the new combat gear should be 510
+[18:17][FC]<Shin Hi> if they follow pattern
+[18:17][FC]<F'urytael Katt> and 490 is already powerful enough to clear any savage with ease
+[18:17][FC]<Von Tugen> in a week
+[18:17][FC]<Shin Hi> that's not really true
+[18:17][FC]<Shin Hi> lol
+[18:17][FC]<Shin Hi> shiva at 490 is still going to be challenging
+[18:17][FC]<Shin Hi> esp cus if it's full crafter 490 a lot of classes have jank stat spreads
+[18:18][FC]<F'urytael Katt> it's much easier than week one 480s at least
+[18:18][FC]<Von Tugen> healer crafted gear has like 3.5k piety rip
+[18:18][FC]<Shin Hi> yeah it lowers the requirement to just being a very good player xD
+[18:18][FC]<F'urytael Katt> you are a good player anyway, so I guess you won't need bis?
+[18:18][FC]<Shin Hi> ?
+[18:18][FC]<Von Tugen> shin wants the parses tho
+[18:18][FC]<Shin Hi> shin wants to perform well
+[18:19][FC]<Von Tugen> need it for that
+[18:19][FC]<Shin Hi> performing well is gear dependent
+[18:19][FC]<F'urytael Katt> if you perform well with 490 you can beat other players using bis anyway
+[18:19][FC]<Shin Hi> false
+[18:19][FC]<Shin Hi> lol
+[18:19][FC]<Kadlyk Caramel> no you can outparse a 505 decent player
+[18:19][FC]<Kadlyk Caramel> trust me
+[18:19][FC]<Shin Hi> i wouldn't call them a decent player
+[18:19][FC]<Shin Hi> if they're not beating a 10 ilvl gap
+[18:20][FC]<Kadlyk Caramel> i started savage late, and once i got a 505 weapon. things changed
+[18:20][FC]<Mocha Caramel> When it comes to log runs BiS matters tremendously.
+[18:20][FC]<F'urytael Katt> But I heard you talking about how bad pf people are all the time
+[18:20][FC]<Mocha Caramel> if you're saying can Shin get mid tier runs with crappy gear if he plays amazing? Yes.
+[18:20][FC]<Heimdal Lograth> idk, I've found there's usually a 10-20 ilvl skill 'flex'
+[18:20][FC]<Mocha Caramel> He wil NOT get blue.purple.orange logs with i490
+[18:20][FC]<Heimdal Lograth> where a skilled player will beat an average player 10-20 ilvls ahead
+[18:20][FC]<F'urytael Katt> if you can beat all pf people with i490 it should be fine I think
+[18:20][FC]<Shin Hi> the average player in this game is pretty bad
+[18:21][FC]<Kadlyk Caramel> well avg savage player i mean
+[18:21][FC]<Shin Hi> even average savage player i'd say is pretty bad
+[18:21][FC]<Von Tugen> savage clear rates are like 20%, so id say that the average player clears some savage
+[18:21][FC]<F'urytael Katt> then if they can join pf, a good player like you using i490 certainly can join and play as well
+[18:21][FC]<Mocha Caramel> Average player is super bad. Average savage player is bad.
+[18:21][FC]<Heimdal Lograth> is it really that high?
+[18:21][FC]<Shin Hi> ^^
+[18:22][FC]<Shin Hi> the biggest issue savage players have is that they have no understanding
+[18:22][FC]<Shin Hi> they just have rote memorization
+[18:22][FC]<Von Tugen> depending on dc, but aether is about 20%
+[18:22][FC]<Kadlyk Caramel> if someone has all BIS including shiva clear. I dont think theyre a bad player
+[18:22][FC]<Shin Hi> definitely not true
+[18:22][FC]<Kadlyk Caramel> and theyre gonna outparse you in 490 gear
+[18:22][FC]<Shin Hi> bad players can get carried all the time
+[18:22][FC]<Mocha Caramel> ^
+[18:22][FC]<Mocha Caramel> what Shin said
+[18:22][FC]<Mocha Caramel> when yoru, myself, and my friend were doing weekly reclears Kady
+[18:22][FC]<Shin Hi> i've seen a ton of people in shiva with shiva weapons that clearly don't know what they're doing in that fight
+[18:22][FC]<Mocha Caramel> the 2 of us would play DPS
+[18:23][FC]<Shin Hi> even though they supposedly 'cleared'
+[18:23][FC]<Mocha Caramel> and we'd barely beat enrage because those 2 would go sky high on DPS
+[18:23][FC]<Kadlyk Caramel> never seen a 505 person losing badly to a 490 ilvl
+[18:23][FC]<Heimdal Lograth> how can you not know what yopu're doing after seeing it several times?
+[18:23][FC]<Shin Hi> that's a fantastic question
+[18:23][FC]<F'urytael Katt> then i guess i490 is totally fine if you are a good player, since your outperform most players anyway
+[18:23][FC]<Mocha Caramel> xD
+[18:23][FC]<Von Tugen> because trhey are not good players
+[18:23][FC]<Von Tugen> which is his point
+[18:23][FC]<Shin Hi> yeah
+[18:23][FC]<Mocha Caramel> The question F'ury
+[18:23][FC]<Mocha Caramel> is you're not playing against them
+[18:23][FC]<Mocha Caramel> you're playign with them to clear content
+[18:23][FC]<Mocha Caramel> so you need the best gear to carry their sorry asses
+[18:23][FC]<Mocha Caramel> so you can get your loot and scoot
+[18:23][FC]<Shin Hi> it's already fucking hard to carry in this game
+[18:24][FC]<Shin Hi> cus of wipe mechanics
+[18:24][FC]<Mocha Caramel> furious xiv : p
+[18:24][FC]<Mocha Caramel> they knew what they were doing when they named it that
+[18:24][FC]<Mocha Caramel> because people will mald
+[18:24][FC]<Shin Hi> lmao
+[18:24][FC]<Von Tugen> shin BA tonight finally?
+[18:24][FC]<Shin Hi> hopefully
+[18:24][FC]<Von Tugen> if a run goes
+[18:24][FC]<Shin Hi> if they have a non restricted run
+[18:25][FC]<Von Tugen> this is the only clear only run
+[18:25][FC]<Shin Hi> keep me posted I'm spamming the worst content in this game because I want a hairstyle
+[18:25][FC]<Von Tugen> lul pvp
+[18:25][FC]<Shin Hi> i hate it so much
+[18:25][FC]<Von Tugen> also
+[18:25][FC]<Shin Hi> who thought a game with this netcode could support pvp
+[18:25][FC]<Shin Hi> smh
+[18:25][FC]<F'urytael Katt> I think the most enjoyable thing about this game's combat is seeing myself improve rather than getting the loots. Bis won't help me improve so I don't think I'd care
+[18:26][FC]<Shin Hi> can't improve if no one can get past the first mechanic in fights
+[18:26][FC]<Shin Hi> xD
+[18:26][FC]<F'urytael Katt> having bis won't help your teammates do mechanics
+[18:26][FC]<Mocha Caramel> Being BiS and being good at your job aren't mutually exclusive goals, so why not do both?
+[18:26][FC]<Shin Hi> ^^
+[18:27][FC]<F'urytael Katt> I don't want to do alts
+[18:27][FC]<Mocha Caramel> You don't need alts to be a BiS boy unless you're doing clone statics.
+[18:27][FC]<F'urytael Katt> so I'll never have bis for all jobs
+[18:27][FC]<Shin Hi> also if you have weird jank gear your job actually can play differently
+[18:27][FC]<F'urytael Katt> only sks/sps matters
+[18:27][FC]<F'urytael Katt> other thing don't change your rotation
+[18:28][FC]<Shin Hi> matters a lot
+[18:28][FC]<F'urytael Katt> So just get the maximum sps gear for BLM and I'm done
+[18:28][FC]<Shin Hi> sorta
+[18:28][FC]<F'urytael Katt> since other jobs' rotations don't depend on gears as long as you get your sks/sps
+[18:29][FC]<Shin Hi> blm is more complicated than just stacking sps
+[18:29][FC]<F'urytael Katt> other things don't change your rotation
+[18:29][FC]<F'urytael Katt> so for self improvement that's enough
+[18:29]Aurktarot Fyaar has logged in.
+[18:29][FC]<Shin Hi> which is why the only thing I care about is actual damage dealt to boss,
+[18:29][FC]<Mocha Caramel> BLM relies on Cheese o7
+[18:30][FC]<Shin Hi> which depends on gear and team comp and team play
+[18:30][FC]<Mocha Caramel> I try to find the cheesiest spots
+[18:30][FC]<F'urytael Katt> I only care about my skill improvement
+[18:30][FC]<Shin Hi> blm relies on breaking your brain
+[18:30][FC]<Mocha Caramel> BLM is a gigabrain job it's so fun x3
+[18:30][FC]<Shin Hi> i started learning is and holy shit
+[18:30][FC]<F'urytael Katt> and getting bis won't improve my skills
+[18:30][FC]<Shin Hi> my brain is way too small
+[18:30][FC]<M'asaca Corgano> the only right way to play BLM is never move and yell at hearers according to all my best sources :)
+[18:30][FC]<Aurktarot Fyaar> getting BiS will make it so you're required to have smaller brain
+[18:31][FC]<M'asaca Corgano> healers* :(
+[18:31][FC]<Mocha Caramel> What i've found about BLM is
+[18:31][FC]<Mocha Caramel> the rotation is super simple but you have to know the fight very well
+[18:31][FC]<Mocha Caramel> to know how much BS you can get away with
+[18:31][FC]<Mocha Caramel> and where
+[18:31][FC]<Mocha Caramel> like in e5s for example
+[18:31][FC]<Shin Hi> everything you learn in BLM 101 gets thrown out the window when you get to high level optimization
+[18:31][FC]<Shin Hi> it's awful
+[18:31][FC]<Mocha Caramel> there's a spot you can stand that the lightning AoEs on the ground never hit
+[18:32][FC]<Mocha Caramel> so i always stand there xD
+[18:32][FC]<Toronto Shordy> and thats exactly why i SMN/RDM before i BLM on any fight
+[18:32][FC]<Mocha Caramel> we even have a forbidden rotation
+[18:32][FC]<F'urytael Katt> That's what I enjoy anyway. Improving myself and discovering new gameplay tricks. The absolute number, the achievements and the loots don't matter that much to me
+[18:32][FC]<Mocha Caramel> if the tanks let us do the CT timer
+[18:32][FC]<Shin Hi> "try to not transpose" becomes "actually transposing is a dps gain in many places"
+[18:32][FC]<Mocha Caramel> newsflash: tanks never let you do the CT timer
+[18:32][FC]<Shin Hi> tanks have no brains
+[18:32][FC]<Shin Hi> don't @ me
+[18:32][FC]<Shin Hi> everyone who plays tanks does it cus they think it's easy mode and then use that as an excuse to not learn how to play
+[18:33][FC]<Mocha Caramel> the forbidden opener is like a 2k DPS gain
+[18:33][FC]<Shin Hi> you cannot argue with this
+[18:33][FC]<Mocha Caramel> but tanks are stubborn xP
+[18:33][FC]<Mocha Caramel> so i cry
+[18:33][FC]<Shin Hi> the best part is apparently if you fuck up at any point as blm
+[18:33][FC]<F'urytael Katt> BLM is the only job that has greatly changed opener depending on your melds
+[18:33][FC]<Shin Hi> and you're doing high level optim
+[18:33][FC]<Shin Hi> you're just done
+[18:33][FC]<Shin Hi> it's over
+[18:33][FC]<Shin Hi> back to baby rotation
+[18:34][FC]<Shin Hi> yay for mana ticks
+[18:34][FC]<F'urytael Katt> so I'll get blm's bis in 5.4 for sure
+[18:34][FC]<F'urytael Katt> not enough incentive to get bis for other jobs though, especially if that means I have to do alts
+[18:35][FC]<F'urytael Katt> I mean alt accounts
+[18:35][FC]<Mocha Caramel> BLM is high stress low reward
+[18:35][FC]<Mocha Caramel> esp since they keep buffing SMN and RDM
+[18:35][FC]<Shin Hi> rdm buffs in .4
+[18:35][FC]<Aurktarot Fyaar> Lol buffing SMN
+[18:35][FC]<Shin Hi> i'm excited
+[18:35][FC]<F'urytael Katt> it's rewarding if you like self improvement
+[18:35][FC]<Mocha Caramel> why would you give the classes with utility (combat rezz) almost = damage to me.
+[18:35][FC]<Mocha Caramel> SMN got buffed right before TEA
+[18:35][FC]<Shin Hi> just remove combat rez
+[18:35][FC]<Shin Hi> fuck that shit
+[18:35][FC]<Mocha Caramel> BLM was the best caster from 5.0-5.1
+[18:36][FC]<Mocha Caramel> F BLM
+[18:36][FC]<Aurktarot Fyaar> SMN gets buffed then but right back to where there were every expansion
+[18:36][FC]<Aurktarot Fyaar> put*
+[18:36][FC]<F'urytael Katt> I'm not good at BLM but I certainly enjoy playing it. Because I get better at it each game
+[18:36][FC]<Toronto Shordy> i thought blm is top caster dps atm
+[18:36][FC]<F'urytael Katt> and the self improvement is the actual reward
+[18:36][FC]<Shin Hi> it is now that tier has been out for 90 million years
+[18:36][FC]<Shin Hi> and all the hidden op blm tech has been discovered
+[18:37][FC]<Mocha Caramel> BLM is top but not by enough
+[18:37][FC]<Mocha Caramel> to justify bringing it for prog
+[18:37][FC]<Toronto Shordy> SAM is up there too
+[18:37][FC]<F'urytael Katt> It's very hard to play if you don't know the mechanics or haven't tried to optimize yet
+[18:37][FC]<Mocha Caramel> unless you have another caster
+[18:37][FC]<Aurktarot Fyaar> BLM is and always has been. Excluding a brief 1 month period where SMN was better
+[18:37][FC]<Shin Hi> it's not top by enough for the amount of effort it takes to be the best
+[18:37][FC]<Mocha Caramel> that's what i mean shin
+[18:37][FC]<Mocha Caramel> for an average player
+[18:37][FC]<Mocha Caramel> SMN is better
+[18:37][FC]<Shin Hi> yea I was agreeing
+[18:37][FC]<Mocha Caramel> if you're 1% Sfia gigabrain
+[18:37][FC]<Mocha Caramel> BLM is better
+[18:38][FC]<Shin Hi> idk how blm mains prog on blm
+[18:38][FC]<Shin Hi> it blows my mind
+[18:38][FC]<Shin Hi> i would kms
+[18:38][FC]<F'urytael Katt> prog with rdm and switch
+[18:38][FC]<Mocha Caramel> i'm probably going to kms in 5.4
+[18:38][FC]<Shin Hi> would rather prog on smn tbh
+[18:38][FC]<F'urytael Katt> switch to blm after learing all the mechanics
+[18:38][FC]<Shin Hi> rdm has weird shit that is annoying as well
+[18:38][FC]<Shin Hi> cus you're a cosplay melee every 40s
+[18:38][FC]<F'urytael Katt> rdm can chain rez to help the team see more mechanics
+[18:39][FC]<Shin Hi> if only we had mechnaics that were recoverable in this tier
+[18:39][FC]<Shin Hi> XD
+[18:39][FC]<Shin Hi> then it might matter
+[18:39][FC]<Shin Hi> half the mechs are instant wipe
+[18:39][FC]<Shin Hi> who needs res
+[18:39][FC]<Aurktarot Fyaar> This was the worst tier the game has ever had
+[18:40][FC]<F'urytael Katt> That's bad design tbh. It will only make pf more toxic
+[18:40][FC]<Shin Hi> you don't say
+[18:40][FC]<Shin Hi> xD
+[18:40][FC]<Shin Hi> pf is incredibly bad at this tier
+[18:40][FC]<Shin Hi> apparently more so than usual
+[18:40][FC]<F'urytael Katt> instant wipe mechanics certainly makes pf a lot worse
+[18:40][FC]<Mocha Caramel> E8s was an incredible fight. but not for PF. xD
+[18:40][FC]<Mocha Caramel> LR is an ultimate level mechanic.
+[18:41][FC]<Shin Hi> i think this has one of hte lowest clear ratios from final floor to first floor of all previous tiers
+[18:41][FC]<Shin Hi> i love shiva but only with actual players
+[18:41][FC]<Shin Hi> with pf it's just
+[18:41][FC]<Shin Hi> suffering
+[18:42][FC]<F'urytael Katt> They should remove wipe mechanics in savage. Otherwise pf will always be hard if someone doesn't know the mechanics
+[18:42][FC]<Shin Hi> that's not a good solution
+[18:42][FC]<Aurktarot Fyaar> huh?
+[18:42][FC]<Aurktarot Fyaar> making the game easy for casual players means you lose your entire raiding playerbase
+[18:43][FC]<Heimdal Lograth> in savage everyone who shows up SHOULD know the mechanics
+[18:43][FC]<Aurktarot Fyaar> ^
+[18:43][FC]<F'urytael Katt> failing dps check should be the ultimate wipe if people fail mechanics and die
+[18:43][FC]<Aurktarot Fyaar> nah
+[18:43][FC]<Aurktarot Fyaar> might as well just go to the FC house and attack the dummy
+[18:43][FC]<Shin Hi> rofl
+[18:43][FC]<F'urytael Katt> but wiping because other people didn't do mechanics isn't fun
+[18:43][FC]<Mocha Caramel> There needs to be a middle level of difficulty in the game. Ex primals are too easy for most players. But savage is too hard.
+[18:43][FC]<Aurktarot Fyaar> raids SHOULD be 99% mechanics, 1% dps check
+[18:43][FC]<Shin Hi> ok yeah I found it, 25% of all max level players cleared ramuh, but only 13.15% of players cleared shiva
+[18:44][FC]<Shin Hi> the reason savage is too hard is because literally nothing in this game actually teaches you how to play
+[18:44][FC]<Shin Hi> or forces you to learn
+[18:44][FC]<Shin Hi> until savage
+[18:44][FC]<Aurktarot Fyaar> ^ that statistic right there shows you that this tier was too easy
+[18:44][FC]<Mocha Caramel> The reason Shiva was so unforgiving wasn't just the wipe mechanics but the massive damage downs that last for 30-60 seconds. Coupled with a super tight DPS check.
+[18:45][FC]<Shin Hi> i'm trying ot find the gate data
+[18:45][FC]<F'urytael Katt> dps check means people still gets to play until the check happens. Wipe means starting from start
+[18:45][FC]<Shin Hi> dps check is an even more unsatisfying way to lose
+[18:45][FC]<Aurktarot Fyaar> yeah but what's the point in having a raid if it's just a dps check with no mechanics that cause a wipe?
+[18:46][FC]<Shin Hi> ^^
+[18:46][FC]<Aurktarot Fyaar> like I said, go attack the dummy at the FC house
+[18:46][FC]<Shin Hi> if there's no dangerous mechanics to have to dps during, then it's just a dummy
+[18:46][FC]<F'urytael Katt> mechanics causes the people who don't do mechanics to die
+[18:46][FC]<Shin Hi> see: iconoclasm
+[18:46][FC]<Aurktarot Fyaar> yes, exactly Fury
+[18:46][FC]<F'urytael Katt> and lowering their dps
+[18:46][FC]<Aurktarot Fyaar> If mechanics can't kill people then you don't need mechanics
+[18:46][FC]<F'urytael Katt> but other people still get to enjoy the gameplay
+[18:46][FC]<Aurktarot Fyaar> then do Normal mode
+[18:47][FC]<F'urytael Katt> instead of dying with that person
+[18:47][FC]<Shin Hi> wathcing people die 25 tiems and knowing you're going to fail the check is not fun
+[18:47][FC]<Shin Hi> lol
+[18:47][FC]<Mocha Caramel> There are SOME individual responsiblity mechanics but this is a TEAM game. You are 8 players taking on 1 boss. Not a 1 on 1.
+[18:47][2]<Aurktarot Fyaar> Is this guy retarded?
+[18:47][2]<Shin Hi> he legit has no idea what he's talking about
+[18:47][2]<Shin Hi> he has 0 experience with this shit
+[18:47][FC]<F'urytael Katt> but pf isn't exactly team game
+[18:47][2]<Shin Hi> and he's talking as if his opinions are useful
+[18:47][2]<Shin Hi> LOLkl;asdjflk;asdjfl;sadfljk
+[18:47][FC]<Shin Hi> what?
+[18:48][FC]<F'urytael Katt> so pf will always be bad experience
+[18:48][FC]<Mocha Caramel> PF makes you play an adaptible playstyle.
+[18:48][FC]<Mocha Caramel> but it's still a team game.
+[18:48][FC]<Shin Hi> yeah...
+[18:48][FC]<F'urytael Katt> you don't know other people
+[18:48][FC]<Shin Hi> ?
+[18:48][FC]<Shin Hi> that doesn't make it not a team
+[18:48][FC]<Shin Hi> what
+[18:48][FC]<F'urytael Katt> so you have no idea if someone doesn't know tghe mechanics and joined anyway
+[18:48][FC]<Shin Hi> so?
+[18:48][FC]<Shin Hi> again, doesn't make it not a team game
+[18:49][FC]<F'urytael Katt> that makes horrible teams most of the time
+[18:49][FC]<Mocha Caramel> Those are what we call "trap" parties
+[18:49][FC]<F'urytael Katt> if you don't know other people
+[18:49][FC]<Heimdal Lograth> As a healer, I can usually tell in the first 30 seconds who has no idea what they're doing :D
+[18:49][FC]<Mocha Caramel> and when it's evident you're in a trap PF. you just politely excuse yourself after a few wipes.
+[18:49][FC]<Shin Hi> i feel like you don't understand what a team game is if this is how you're deciding it's not a team game
+[18:49][FC]<Shin Hi> lol
+[18:49][FC]<Aurktarot Fyaar> first of all. When Shin describes "bad PFs" he's strictly talking about CLEAR PARTIES and parties that specify they are progging "mechanic C" but can't get passed "mechanic A"
+[18:49][FC]<Mocha Caramel> ^
+[18:49][FC]<Shin Hi> yeah if you're in a fresh prog party and die to mechanic one I expect this
+[18:50][FC]<Mocha Caramel> blind runs or blind prog is A-ok to wipe
+[18:50][FC]<Mocha Caramel> everyone is learning
+[18:50][FC]<Shin Hi> if you're in clear party and you die to mechanic one I am very upset
+[18:50][FC]<F'urytael Katt> but the instant wipe mechanics is definitely bad for progging
+[18:50][FC]<Aurktarot Fyaar> When we talk about the bad PFs we're talking about people that join a party because they have cleared the raid before but fail to do 1+1=2 mechanics
+[18:50][FC]<Aurktarot Fyaar> no it's not
+[18:50][FC]<F'urytael Katt> people will see less mechanics
+[18:50][FC]<Aurktarot Fyaar> That doesn't matter
+[18:50][FC]<Shin Hi> if you can't do mechanic 1 then you don't deserve to see more mechanics
+[18:50][FC]<Aurktarot Fyaar> if you can't get past that instant wipe mechanic, then work on it
+[18:51][FC]<Aurktarot Fyaar> if you can't get passed grade 2, don't expect to see grade 5
+[18:51][2]<Shin Hi> XD
+[18:51][FC]<F'urytael Katt> that's much less efficient in terms of time
+[18:51][FC]<Shin Hi> what?
+[18:51][FC]<Shin Hi> yes
+[18:51][FC]<Aurktarot Fyaar> Savage isn't for everyone
+[18:51][FC]<Shin Hi> beign bad is less efficient than being good
+[18:51][FC]<Shin Hi> XD
+[18:51][FC]<F'urytael Katt> since you have to redo everything before the mechanic
+[18:51][FC]<Aurktarot Fyaar> Savage (and raiding in general) is for 1% of the playerbase
+[18:51][FC]<Aurktarot Fyaar> Yeah
+[18:51][FC]<Shin Hi> oh i found it
+[18:51][FC]<Aurktarot Fyaar> So it forces you to learn mechanics
+[18:51][FC]<Toronto Shordy> hey thats me c:
+[18:52][FC]<Shin Hi> gate was 35% cleared prime, 21% cleared titan
+[18:52][FC]<F'urytael Katt> I mean you can keep the same difficulty but remove the wipes to make people learn faster and let pf become less toxic
+[18:52][FC]<Shin Hi> uhhh
+[18:52][FC]<Shin Hi> no
+[18:52][FC]<Shin Hi> you can't
+[18:52][FC]<Shin Hi> lol
+[18:52][FC]<Aurktarot Fyaar> no
+[18:52][2]<Frozen Wrath> this is entertaining to read
+[18:52][FC]<F'urytael Katt> the difficulty can still be high enough if you have tight dps checks
+[18:52][2]<Frozen Wrath> ngl
+[18:52][FC]<Shin Hi> dps checks are not difficult
+[18:53][FC]<Shin Hi> dps checks while having very difficult dangerous mechanics is difficult
+[18:53][FC]<Aurktarot Fyaar> if you don't have mechanics that cause a wipe then you don't have mechanics and it's just a fight against a dummy
+[18:53][FC]<F'urytael Katt> since if someone fails a mechanic and get rezzed, you'll fail the dps check
+[18:53][FC]<Shin Hi> if a mechanic can't wipe it's not dangerous
+[18:53][FC]<Aurktarot Fyaar> then 100% of the playerbase clears savage
+[18:53][FC]<Aurktarot Fyaar> no
+[18:53][FC]<Shin Hi> so what you described is just a soft wipe lol
+[18:53][FC]<Heimdal Lograth> they should set a limit of 2 combat rezzes per pull
+[18:53][FC]<Shin Hi> if one death causes you to fail the check
+[18:53][FC]<Shin Hi> then it's effectively a wipe
+[18:53][FC]<Shin Hi> lol
+[18:53][FC]<F'urytael Katt> soft wipe means seeing more mechanics and be more efficient in terms of play time versus wait time
+[18:54][FC]<Shin Hi> if this were a 1v1 game
+[18:54][FC]<Shin Hi> sure
+[18:54][FC]<Shin Hi> this is a team game
+[18:54][FC]<Shin Hi> there will be team mechanics
+[18:54][FC]<Shin Hi> otherwise just do stone sea sky
+[18:54][FC]<Aurktarot Fyaar> You know what's worse than wiping to an instant wipe mechanic? Spending 9 minutes burning a boss down to 10% health only to realize that in order to beat it he should be at 5%
+[18:54][FC]<Shin Hi> ^^
+[18:54][FC]<F'urytael Katt> that's totally fine for me
+[18:54][FC]<Shin Hi> instant wipe is annoying but it forces you to learn
+[18:54][FC]<Aurktarot Fyaar> then do normal mode xD
+[18:54][FC]<F'urytael Katt> I get to play the game and improve
+[18:54][FC]<F'urytael Katt> and optimize during that
+[18:54][FC]<Shin Hi> or in the case of LR
+[18:55][FC]<Shin Hi> prog for 3 hours on mechanic 1
+[18:55][FC]<Shin Hi> and then disband
+[18:55][FC]<F'urytael Katt> and also get the parses i need
+[18:55][FC]<Shin Hi> and repeat
+[18:55][FC]<Shin Hi> XD
+[18:55][FC]<Shin Hi> what
+[18:55][FC]<Shin Hi> you can't parse if you don't clear
+[18:55][FC]<Shin Hi> what
+[18:55][FC]<Shin Hi> partial parses are basically worthless
+[18:55][FC]<F'urytael Katt> I can see my parse from act right
+[18:55][FC]<F'urytael Katt> that's good enough for optimization
+[18:55][FC]<Shin Hi> not really
+[18:55][FC]<Aurktarot Fyaar> endgame raiding isn't about knowing how to play your class. It's about know how to play your class in hundreds, if not thousands of scenarios (i.e mechanics). If you want to just dps a target with no mechanics, then go attack a dummy. But raiding isn't about that
+[18:55][FC]<Shin Hi> it's also knowing how to play your class in teh context of your team comp
+[18:56][FC]<Shin Hi> very important and often overlooked
+[18:56][FC]<F'urytael Katt> I was talking about fight specific optimization
+[18:56][FC]<Shin Hi> by most players
+[18:56][FC]<F'urytael Katt> like for blm
+[18:56][FC]<Shin Hi> you play different with a ninja sam than you do with drg monk
+[18:56][FC]<Shin Hi> if you're mch
+[18:56][FC]<F'urytael Katt> I need to play a lot of games to do the fight specific optimizations
+[18:56][FC]<Aurktarot Fyaar> as someone who has been raiding casually and hardcore in numerous MMOs for over a decade I can assure you that everything you're trying to say they should change to "fix" PF groups would completely destroy the raiding community xD
+[18:56][FC]<F'urytael Katt> dummies are not enough
+[18:57][FC]<F'urytael Katt> I guess I still have a single player brain, since this is the first co op pve game I played
+[18:58][FC]<Shin Hi> what you describe is how solo content works, but it doesn't make sense in a team setting
+[18:58][FC]<Shin Hi> if it's just a bunch of individual mechanics then there's no point in it being a team game
+[18:58][FC]<F'urytael Katt> I played a lot of pvp and single player games. And doing fight specific optimizations for self impovements is the main reason I play
+[18:58][FC]<Aurktarot Fyaar> Endgame raiding is a team sport. You must all pass to beat the raid. Yes, this tier had MORE instant wipe mechanics if 1 person died, but that's how raiding works
+[18:58][FC]<Shin Hi> yeah but you're missing the context where half the optimizations in this game involve playing around your team comp
+[18:59][FC]<Shin Hi> yeah the complaint about this tier is the extent of the wipe mechanics, not htat they exist at all
+[18:59][FC]<Aurktarot Fyaar> When we say it's a "team" thing we don't mean your NFL team has 1 bad wide receiver so you pass to everyone else. It's like a relay-race where if the last person on the relay walks the whole way, you lsoe
+[18:59][FC]<Aurktarot Fyaar> lose*
+[18:59][FC]<Shin Hi> excuse u
+[18:59][FC]<F'urytael Katt> I still don't think they are healthy mechanics, since the dps check can do the wipe at the end as well
+[18:59][FC]<Shin Hi> as phys ranged uc an walk the whole way
+[19:00][FC]<Shin Hi> and still win
+[19:00][FC]<Shin Hi> xD
+[19:00][FC]<Shin Hi> no offense, but you're speaking from no experience, right?
+[19:00][FC]<Shin Hi> you've never done savage
+[19:00][FC]<Shin Hi> ?
+[19:00][FC]<F'urytael Katt> I've done practice parties
+[19:00][FC]<Aurktarot Fyaar> that's exactly what it is. You need to combine all those mechanics PLUS a dps check
+[19:00][FC]<F'urytael Katt> and the instant wipe mechanics is bad for practicing
+[19:00][FC]<Shin Hi> the instant wipe mechanic forces you to learn the mechanic
+[19:00][FC]<Aurktarot Fyaar> then practice the instant wipe mechanics
+[19:01][FC]<F'urytael Katt> since the people who already know the mechanics can't move on
+[19:01][FC]<Shin Hi> so you're describing an issue with PF
+[19:01][FC]<Aurktarot Fyaar> yeah, then you move onto a different PF group
+[19:01][FC]<Shin Hi> where people won't kick the people that don't belong
+[19:01][FC]<Shin Hi> or leave to a different group
+[19:01][FC]<Shin Hi> if you are doing post F14 prog, and someone can't do F14
+[19:01][FC]<Shin Hi> they don't belong
+[19:01][FC]<Mocha Caramel> I think what F'ury is saying would make sense for learning the fight yes. But it would KILL the raiding community
+[19:01][FC]<Aurktarot Fyaar> or Lie about the progress they've made
+[19:01][FC]<Mocha Caramel> because it wouldn't be challenging at all
+[19:01][FC]<Shin Hi> yeah
+[19:01][FC]<F'urytael Katt> like I wanted to practice something later but the instant wipe mechanics doesn't allow me because otehr people may ramdomly mess up
+[19:02][FC]<Aurktarot Fyaar> yeah, then you move onto a different group or kick the person that's holding you back
+[19:02][FC]<Shin Hi> so find a new party, or make your own party so you can kick the people that joined and aren't at that prog point
+[19:02][FC]<Aurktarot Fyaar> or find a static
+[19:02][FC]<Shin Hi> or make a static
+[19:02][FC]<Shin Hi> xD
+[19:02][FC]<Shin Hi> you're just describing a societal issue not a design issue
+[19:02][FC]<F'urytael Katt> that's why I hate the wipe mechanics. They make pf a lot harder
+[19:02][FC]<Shin Hi> no
+[19:02][2]<Frozen Wrath> ngl every conversation i see between shin and f'ury is like this lmao
+[19:02][FC]<Shin Hi> pf makes pf harder
+[19:02][FC]<Shin Hi> they do it to themselves
+[19:02][FC]<Shin Hi> the solutions exist
+[19:02][FC]<Aurktarot Fyaar> the COMMUNITY makes PF harder
+[19:03][FC]<Shin Hi> they just refuse to use them
+[19:03][FC]<Shin Hi> see: dozens of LR strats that are safer than Ilya
+[19:03][FC]<F'urytael Katt> If the wipe mechanics doesn't exist, I can see later mechanics even if someone failed the first
+[19:03][FC]<Shin Hi> yet what does Aether PF do?
+[19:03][FC]<Shin Hi> Ilya.
+[19:03][2]<Shin Hi> i strongly dislike him
+[19:03][2]<Shin Hi> and all people that talk out of their ass
+[19:03][FC]<Aurktarot Fyaar> People shouldn't be jumping into raids who are progging "mechanic D" when they can't even beat "mechanic A". They also shouldn't bve joining a farm party if they themselves barely beat it and got carried
+[19:03][FC]<Mocha Caramel> PF sticks to w/e strat comes out first. Even if a much better strat comes out a few days later.
+[19:03][FC]<Mocha Caramel> They are hard headed and ignorant and don't want to learn.
+[19:03][2]<Shin Hi> so much confidence about things they don't know anything about
+[19:04][FC]<Shin Hi> yup
+[19:04][FC]<Shin Hi> they deserve their fate tbh
+[19:04][FC]<Shin Hi> they do it to themselves
+[19:04][FC]<Shin Hi> they don't want to think
+[19:04][FC]<Shin Hi> they just wanna be spoon fed
+[19:04][FC]<Aurktarot Fyaar> Exactly. The issue isn't with PF, it's with the community
+[19:04][FC]<Shin Hi> this is how you get people at BIS who have no idea what they're doing
+[19:05][FC]<F'urytael Katt> the problem is there's usually only one or no pf for e5s practice when I tried to join one. I can't simply leave and join another one
+[19:05][FC]<Shin Hi> cus you're in week 40
+[19:05][FC]<Shin Hi> tier is dead
+[19:05][FC]<Shin Hi> it's unfortunate
+[19:05][FC]<Shin Hi> but that's just a fact of life
+[19:05][FC]<Aurktarot Fyaar> this tier was supposed to be over in August
+[19:05][FC]<Shin Hi> yeah
+[19:05][FC]<Shin Hi> 3 extra months
+[19:05][FC]<Shin Hi> almost 4
+[19:06][FC]<Toronto Shordy> im upset there was no halloween event
+[19:06][FC]<Aurktarot Fyaar> over 60% of the raid population isn't even playing the game right now so the people you're left in PF with are the ones who aren't even raiders
+[19:06][FC]<Shin Hi> all that's left is the super late start players and the ones that are so bad they still haven't cleared
+[19:06][FC]<Aurktarot Fyaar> Just because you do a raid, doesn't make you a raider
+[19:06][FC]<Shin Hi> and STILL can't clear even in discoutn i500
+[19:06][FC]<Shin Hi> because lol tome gear
+[19:06][FC]<Aurktarot Fyaar> anyways, I'm leaving. Going to play other video games xD
+[19:06][FC]<Shin Hi> lies
+[19:06][FC]<Shin Hi> there's no other games
+[19:06][FC]<Mocha Caramel> Try to prog early next tier
+[19:07][FC]<Mocha Caramel> and you will see dozens of PFs
+[19:07][FC]<Mocha Caramel> in about 2 weeks from now
+[19:07][FC]<Shin Hi> there will be like 20 pfs at 5;15
+[19:07][FC]<Shin Hi> or some shit
+[19:07][FC]<Mocha Caramel> just make sure you have the new savage unlocked and give it your best ^_^
+[19:07][FC]<Shin Hi> on the 8th
+[19:07][FC]<Aurktarot Fyaar> day 1 prog will show you about 4 pages of prog groups
+[19:07][FC]<Shin Hi> maybe a bit longer idk how long it will take to skip cutscene on all the eden things
+[19:07][FC]<F'urytael Katt> day one I'll probably be crafting all day
+[19:07][FC]<Aurktarot Fyaar> fuck cutscenes, get raiding
+[19:07][FC]<Aurktarot Fyaar> bye
+[19:07][FC]<Shin Hi> i have never watched a cutscene in my life
+[19:07][FC]<Shin Hi> not gonna start now
+[19:07][FC]<Mocha Caramel> New omni melding is going to be so much easier
+[19:08][FC]<Shin Hi> if a game has unskippable cutscenes I stop playing it
+[19:08][FC]<Shin Hi> omg yes
+[19:08][FC]<Frozen Wrath> those overmelding changes
+[19:08][FC]<Frozen Wrath> yes
+[19:08][FC]<Shin Hi> instead of 4 hours to pentameld my shit it will take like 5 minutes
+[19:08][FC]<Shin Hi> all my suffering can be condensed and concentrated
+[19:08][FC]<Shin Hi> I am so excited
+[19:08][FC]<Mocha Caramel> and you get to know your fate instantly
+[19:08][FC]<Frozen Wrath> yea you can enjoy clicking a button and watching 50 materia disappear
+[19:08][FC]<Mocha Caramel> whether you break 5 or 500 materia
+[19:08][FC]<Frozen Wrath> XD
+[19:08][FC]<Shin Hi> 50?
+[19:08][FC]<Shin Hi> excuse you
+[19:08][FC]<Shin Hi> try 300
+[19:08][FC]<Heimdal Lograth> I honestly can't fathom playing this game and not paying attention to the story
+[19:09][FC]<Shin Hi> my melding luck is horrible
+[19:09][FC]<Shin Hi> well you don't have to fathom it, I did it for you
+[19:09][FC]<Shin Hi> i literally have no idea who any character is
+[19:09][FC]<Mocha Caramel> this game has a wonderful story for a single player, let alone an MMO game : o
+[19:09][FC]<F'urytael Katt> I totally enjoyed story but not everyone has to
+[19:09][FC]<Frozen Wrath> wait shin were you the person who said they did all side content?
+[19:09][FC]<Heimdal Lograth> nah I hear you, but if you don't mind my asking why play FFXIV then? Other games do gameplay much better (in my opinion at least)
+[19:09][FC]<Shin Hi> i did all the sidequests yes
+[19:09][FC]<Shin Hi> and i skipped every cutscene
+[19:09][FC]<Frozen Wrath> amazing
+[19:09][FC]<Shin Hi> no idea what happened in any of them
+[19:09][FC]<Shin Hi> i just hate quest markers on my map
+[19:09][FC]<Shin Hi> they must be extinguished
+[19:10][FC]<F'urytael Katt> I play ffxiv because it's a FF game. Story is a must for me
+[19:10][FC]<Shin Hi> i don't even know why I play an mmo at all
+[19:10][FC]<Shin Hi> I hate multiplayer games
+[19:10][FC]<Shin Hi> almost as much as I hate single player games
+[19:10][FC]<Shin Hi> it's an enigma
+[19:10][FC]<Heimdal Lograth> I totally get players not being into story stuff 100%, but FF seems like such a weird place for said players to go
+[19:10][FC]<F'urytael Katt> I definitely wasn't playing it because it's an mmo
+[19:10][FC]<F'urytael Katt> I'm a single player + pvp player
+[19:10][FC]<Shin Hi> this is just the only mmo i've ever played
+[19:11][FC]<Mocha Caramel> Caramels out o7
+[19:11][FC]<Shin Hi> peace
+[19:11][FC]<Vespertinal Siah> You are a masochist shin that's why
+[19:11][FC]<Shin Hi> i just play video games idk what I'm doing
+[19:11][FC]<F'urytael Katt> I mostly play for optimization and self improvement in terms of gameplay
+[19:12][FC]<F'urytael Katt> like learing all jobs in ffxiv is pretty fun for me
+[19:12][FC]<F'urytael Katt> *learning
+[19:13][FC]<F'urytael Katt> single player games usually have skill progression which makes every moment different in terms of optimization
+[19:13][FC]<Shin Hi> i hate progression
+[19:13][FC]<Shin Hi> with a passion
+[19:13][FC]<Shin Hi> literally makes no sense that I play mmos
+[19:13][FC]<Shin Hi> or mmo, rather
+[19:13][FC]<F'urytael Katt> and pvp has different opponents each time which also makes optimization fun
+[19:14][FC]<F'urytael Katt> I'm not a fan of mmo either
+[19:14][FC]<F'urytael Katt> that's why I never played wow
+[19:14][FC]<F'urytael Katt> But I like final fantasy games with a passion
+[19:15][FC]<F'urytael Katt> so I played this despite that it's an mmo
+[19:15][FC]<Heimdal Lograth> as MMOs go XIV is the best I've played overall, barring WoW during TBC/Wotlk, which was a superior experience I think
+[19:15][FC]<F'urytael Katt> and the fun of progression is mainly to make optimization different for every moment, so you always have something different to optimize on
+[19:16][FC]<F'urytael Katt> like the BLM leveling rotation
+[19:16][FC]<F'urytael Katt> you have to optimize differently at different time
+[19:17][FC]<F'urytael Katt> That's why jrpgs like final fantasy series are so good for me
+[19:17][FC]<Shin Hi> BLM levelling rotation is just broken
+[19:17][FC]<Shin Hi> like it's fundamentally just non-functional
+[19:17][FC]<Shin Hi> lol
+[19:18][FC]<F'urytael Katt> I have to use a different strategy every time I get a new member or new skill
+[19:18][FC]<F'urytael Katt> makes the whole process engaging
+[19:18][2]<Frozen Wrath> that feeling when someone things blm leveling rotation is engaging
+[19:18][2]<Frozen Wrath> thinks*
+[19:19][2]<Shin Hi> also thinks that blm levelling rotation hasn't been solved already
+[19:19][2]<Shin Hi> lol
+[19:19][FC]<F'urytael Katt> meanwhile, the games I don't like usually have the same strategy throughout the whole game
+[19:19][2]<Shin Hi> ah yes spam my only aoe spell until i run out of mp
+[19:19][2]<Shin Hi> very interesting
+[19:19][FC]<F'urytael Katt> So they are hardly engaging
+[19:20][FC]<F'urytael Katt> I also like roguelike games because of the different strategies every game
+[19:20][FC]<F'urytael Katt> each game is a different build and it takes a very long time to finally get repetitive
+[19:21][2]<Frozen Wrath> theres a level range where the aoe rotation is literally just freeze spam too
+[19:21][2]<Frozen Wrath> so you dont even run out of mp XD
+[19:21][2]<Shin Hi> yeah
+[19:21][2]<Shin Hi> it's so broken
+[19:21][FC]<F'urytael Katt> I'm playing Hades recently and it's been pretty fun. I also enjoyed slay the spire and monster trains
+[19:22][2]<Shin Hi> he honestly has no business talking about fight design in this game
+[19:22][2]<Shin Hi> this game is 100% scripted
+[19:22][2]<Shin Hi> his suggestions are literally all "this should just be a single player pve game and it should also be basically a roguelike you should get random skills every pull"
+[19:23][2]<Shin Hi> just go play one of those games LOL
+[19:24][2]<Frozen Wrath> yea he prefers single player but is playing ffxiv for the ff story
+[19:25][2]<Frozen Wrath> which is fine but ffxiv is not a single player game so it shouldnt be designed like one lul
+[19:25][2]<Shin Hi> yeah
+[19:25][2]<Shin Hi> savage is not targetted at him
+[19:25][2]<Shin Hi> at all
+[19:25][2]<Shin Hi> savage is very specific in its appeal
+[19:26][2]<Shin Hi> like he only cares about specifically individual skill when that's counterproductive to actually being good at this game
+[19:27][2]<Shin Hi> caring only about pressing your buttons in vacuum just makes you a selfish player

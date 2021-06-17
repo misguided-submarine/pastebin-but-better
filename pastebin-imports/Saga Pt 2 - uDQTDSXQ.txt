@@ -1,0 +1,326 @@
+[11:02 AM] A Random Badger: i still think elon musk is absolutely incredibly ridiculous man
+[11:03 AM] fancy: he's a smart dude
+[11:03 AM] A Random Badger: yes
+[11:04 AM] A Random Badger: he is
+[11:04 AM] A Random Badger: but i think he's absolutely ignorant
+[11:04 AM] fancy: I don't know what that means in this context
+[11:05 AM] A Random Badger: the way he shows off his "wonderful" ai is like the only thing he cares about is making himself look like a bigger man in a sense rather than actually striving to further the technological advances of artificial intelligence
+[11:05 AM] A Random Badger: well
+[11:05 AM] A Random Badger: i saw a tweet from him
+[11:05 AM] A Random Badger: stating that
+[11:06 AM] A Random Badger: his ai beat top dota pros is "vastly more complex than traditional board games like Chess & Go"
+[11:06 AM] A Random Badger: and maybe im misunderstanding his point
+[11:06 AM] A Random Badger: if his point is
+[11:06 AM] A Random Badger: that dota is more complex
+[11:06 AM] A Random Badger: than them
+[11:06 AM] A Random Badger: then i can agree
+[11:06 AM] A Random Badger: but if he is saying that his ai is mroe complex
+[11:06 AM] A Random Badger: than the ai's of go and chess
+[11:06 AM] A Random Badger: i think its wrong and ignorant to assume
+[11:06 AM] fancy: I disagree with that
+[11:07 AM] fancy: go ai is involved but the concept is relatively simple
+[11:07 AM] fancy: chess ai is more complex
+[11:07 AM] fancy: but still less complex than dota
+[11:07 AM] fancy: so
+[11:07 AM] A Random Badger: actually go ai and chess ai is very similar
+[11:07 AM] fancy: I can kinda see his angle
+[11:07 AM] A Random Badger: all it does is calculate the win % of the following moves
+[11:07 AM] A Random Badger: where a chess ai only has to look at a few dozen moves
+[11:07 AM] fancy: I mean if we have to re-hash possibility spaces
+[11:07 AM] A Random Badger: and go ai has to look at hundreds
+[11:08 AM] fancy: lol
+[11:08 AM] A Random Badger: wym
+[11:08 AM] A Random Badger: re-hash possibility spaces
+[11:08 AM] fancy: there's a difference between magnitude and complexity
+[11:08 AM] A Random Badger: yes
+[11:08 AM] fancy: to a computer analyzing 10 moves is the same as analyzing 10 thousand moves
+[11:09 AM] A Random Badger: pretty much
+[11:09 AM] A Random Badger: but
+[11:09 AM] A Random Badger: the issue i have
+[11:09 AM] A Random Badger: is he claims his ai is so complex
+[11:09 AM] fancy: you have a personal issue because you like go better imo
+[11:10 AM] A Random Badger: when all it has accomplished is really mastering basic mechanical elements of Dota which is very simple for an AI to do considering they dont have to worry about human error
+[11:10 AM] A Random Badger: and thats the thing about video game mechanics
+[11:10 AM] A Random Badger: most of it revolves around
+[11:10 AM] A Random Badger: human error
+[11:10 AM] fancy: Except what is complex to humans isn't complex to computers
+[11:10 AM] fancy: humans can see things computers can't
+[11:11 AM] fancy: it is very hard to quantify how much any one specific action in dota correlated to winning
+[11:11 AM] A Random Badger: yes but this is my point
+[11:11 AM] A Random Badger: his ai hasnt won a game of dota
+[11:11 AM] fancy: thus why it took thousands of hours before the ai bots even went to the mid lane during the game
+[11:11 AM] A Random Badger: it has won 1v1s
+[11:11 AM] A Random Badger: which are
+[11:11 AM] A Random Badger: incredibly
+[11:11 AM] A Random Badger: much simpler
+[11:11 AM] fancy: yes
+[11:11 AM] fancy: however
+[11:11 AM] A Random Badger: all the bot has to do
+[11:11 AM] fancy: extremely complex for an ai
+[11:12 AM] fancy: you're talking from the perspective of a human
+[11:12 AM] fancy: humans have the ability to make assumptions
+[11:12 AM] fancy: jumps in logic
+[11:12 AM] fancy: ai cant(edited)
+[11:12 AM] fancy: not yet at least
+[11:12 AM] fancy: that's why it's complex
+[11:13 AM] A Random Badger: is block perfectly or at least better than the human opponent, which is simple for an ai, last hit again very simple for an ai, and land skill shots etc, all very basic mechanics
+[11:13 AM] fancy: yes
+[11:13 AM] fancy: the execution is simple for those
+[11:13 AM] fancy: figuring out that doing that is worthwhile
+[11:13 AM] fancy: is not
+[11:13 AM] fancy: you and I clearly see why blocking is good
+[11:13 AM] fancy: computers can't
+[11:13 AM] fancy: they don't have that ability
+[11:13 AM] A Random Badger: they do if you tell it
+[11:14 AM] fancy: they have to try every possible action and quantify it
+[11:14 AM] A Random Badger: which is what they did for the original go ai and openai
+[11:14 AM] A Random Badger: they said hey
+[11:14 AM] fancy: they purposely didn't tell it
+[11:14 AM] A Random Badger: these thigns humans do
+[11:14 AM] A Random Badger: cause they thinks its good
+[11:14 AM] fancy: that was the whole point
+[11:14 AM] A Random Badger: so do that
+[11:14 AM] fancy: that's not impressive if you just tell it to execute something
+[11:14 AM] fancy: that's not ai
+[11:14 AM] fancy: that's just a script
+[11:14 AM] fancy: but that's not what the dota ai is
+[11:14 AM] fancy: they gave it almost 0 information
+[11:15 AM] fancy: they just let it go
+[11:15 AM] A Random Badger: yes
+[11:15 AM] A Random Badger: play thousands of hours against itself
+[11:15 AM] A Random Badger: and determine which actions
+[11:15 AM] A Random Badger: increased its win % the msot
+[11:15 AM] fancy: which has evolved a complex algorithm
+[11:15 AM] A Random Badger: and then replicate those actions
+[11:15 AM] fancy: quantifying the usefulness of actions
+[11:15 AM] fancy: that's the complexity
+[11:16 AM] A Random Badger: but this why i think its more complex for an ai to do it in go rather than dota
+[11:16 AM] fancy: in go you can have complete disconnect(edited)
+[11:16 AM] fancy: from each turn(edited)
+[11:16 AM] fancy: mind games aren't nearly as important
+[11:16 AM] fancy: because it's not real time
+[11:17 AM] A Random Badger: its hard to quanitify the usefulness of an action in go because of the fact that you're really just putting a stone in a palce than somehow impacts the boardand other stones around it
+[11:17 AM] fancy: you can give an ai a board state at any point in a game and it can tell you the move with the highest % chance to win
+[11:17 AM] fancy: but in dota it's not quite the same
+[11:18 AM] A Random Badger: but the magnitude as you stated earlier is different
+[11:18 AM] fancy: there's less prediction in go
+[11:18 AM] fancy: yes
+[11:18 AM] A Random Badger: the magnitude of determining the largest % chance to win
+[11:18 AM] A Random Badger: is extremely large
+[11:18 AM] fancy: but magnitude doesn't make complexity
+[11:18 AM] A Random Badger: because it has to read out
+[11:18 AM] A Random Badger: hundreds or even close to a thousand or more moves and orders of moves
+[11:18 AM] fancy: it's trivial to a computer
+[11:19 AM] fancy: to calculate 10000000 calculations
+[11:19 AM] fancy: that's nothing
+[11:19 AM] A Random Badger: it is when you're on a limited time
+[11:19 AM] A Random Badger: after all a computer cant just do it
+[11:19 AM] A Random Badger: isntantly
+[11:19 AM] fancy: it still really isn't
+[11:19 AM] fancy: do you have a frame of reference for how fast computers are
+[11:20 AM] fancy: they're fucking fast
+[11:20 AM] A Random Badger: yes lol
+[11:20 AM] A Random Badger: but i still think that an ai being able to master the mechanics of such a basic scenario in a game like dota is incredibly simple to accomplish for an ai
+[11:20 AM] fancy: I think you're vastly under selling it
+[11:21 AM] A Random Badger: i dont think i am
+[11:21 AM] fancy: you're not seeing how you see it different because you have a human brain
+[11:21 AM] A Random Badger: i think you're not putting the speed of a computers analytics into proportion for dota tho
+[11:21 AM] A Random Badger: just take last hitting for example
+[11:22 AM] A Random Badger: lets put it in the perspective of a human
+[11:22 AM] A Random Badger: you have basically 2 options
+[11:22 AM] A Random Badger: you can guess
+[11:22 AM] A Random Badger: when the hp bar is low enough
+[11:22 AM] A Random Badger: that you can kill it with a single attack
+[11:22 AM] A Random Badger: or
+[11:22 AM] A Random Badger: you can directly click on the enemy minion
+[11:22 AM] A Random Badger: and see its numerical value of hp
+[11:22 AM] A Random Badger: and compare that to your damage
+[11:22 AM] fancy: yes
+[11:22 AM] A Random Badger: and wait until its at its sweet spot
+[11:22 AM] A Random Badger: that 2nd
+[11:22 AM] A Random Badger: option
+[11:23 AM] fancy: no
+[11:23 AM] fancy: it's not
+[11:23 AM] A Random Badger: is incredibly easy for an ai to do
+[11:23 AM] fancy: because they didn't tell it
+[11:23 AM] fancy: it had to learn that
+[11:23 AM] fancy: but what it doesn't have
+[11:23 AM] fancy: is the innate understanding that
+[11:23 AM] fancy: not only is the first last hit good to do
+[11:23 AM] fancy: each and every last hit is good to do
+[11:23 AM] fancy: like if you learn once hey you should last hit because gold is good
+[11:23 AM] fancy: you now know because of intuition
+[11:24 AM] fancy: you should continue doing that
+[11:24 AM] fancy: ai fundamentally can't make that connection
+[11:24 AM] A Random Badger: but i think you're taking elon musk at his word way too much
+[11:24 AM] fancy: except by brute force trial abd error
+[11:24 AM] fancy: I think you're to quick to judge him because you have vested interest
+[11:24 AM] A Random Badger: i highly doubt that the ai went into it with no knowedge
+[11:24 AM] fancy: it did(edited)
+[11:24 AM] A Random Badger: especially if you consider
+[11:25 AM] fancy: that was the entire point
+[11:25 AM] A Random Badger: that as soon as you implement this ai into the game
+[11:25 AM] A Random Badger: it is able to analyze and understand all the basic interactions
+[11:25 AM] A Random Badger: immediately
+[11:25 AM] A Random Badger: just from the game itself
+[11:25 AM] A Random Badger: "hey i have gold"
+[11:25 AM] A Random Badger: "i can buy items with this"
+[11:25 AM] A Random Badger: "i can accumulate more by killing creeps"
+[11:25 AM] fancy: but it doesn't know it should
+[11:25 AM] fancy: or why it should
+[11:26 AM] A Random Badger: ah
+[11:26 AM] A Random Badger: but elonmusk may not have told it
+[11:26 AM] fancy: we can see why we'd want that
+[11:26 AM] fancy: it can't
+[11:26 AM] A Random Badger: but im sure dota itself has
+[11:26 AM] A Random Badger: juyst has it has told us
+[11:26 AM] A Random Badger: just as*
+[11:26 AM] fancy: what do you mean
+[11:26 AM] fancy: dota never tells you why items are good except by words
+[11:26 AM] fancy: computers don't do words
+[11:27 AM] A Random Badger: but words on a computer is just created by code anyways and that a computer can understand
+[11:27 AM] fancy: no it can't
+[11:27 AM] fancy: it doesn't "understand"
+[11:27 AM] fancy: it takes instructions and executes
+[11:27 AM] fancy: it doesn't care why
+[11:27 AM] A Random Badger: yes
+[11:27 AM] fancy: or what that does
+[11:27 AM] A Random Badger: my bad
+[11:27 AM] A Random Badger: which is exactly why
+[11:27 AM] fancy: we didn't tell it to buy items
+[11:28 AM] fancy: or which items to buy
+[11:28 AM] fancy: first iterations of the bots didn't even go to the mid lane
+[11:28 AM] fancy: or leave fountain
+[11:28 AM] fancy: they wandered in the jungle
+[11:28 AM] fancy: or afkd
+[11:28 AM] fancy: at one point it fed couriers
+[11:28 AM] fancy: at one point it didn't skill shadowraze
+[11:29 AM] fancy: it didn't buy items
+[11:29 AM] fancy: it fundamentally can't throw out possibilities
+[11:29 AM] fancy: you and I can sed
+[11:29 AM] fancy: why we shouldn't spend all our money on tangoes(edited)
+[11:29 AM] fancy: but to a bot that's no different from buying stats
+[11:29 AM] fancy: until it tries it 1000 times
+[11:30 AM] fancy: and realizes one is worth more than the other
+[11:30 AM] fancy: you're vastly under selling human intuition
+[11:30 AM] A Random Badger: but its the same thing the go ai had to do
+[11:30 AM] fancy: it's going to be the hardest thing to recreate
+[11:30 AM] fancy: like I said
+[11:30 AM] fancy: go ai has fewer possibility spaces
+[11:30 AM] A Random Badger: it was playing in the center and on the sides before i discovered which areas were more valuable
+[11:30 AM] fancy: all that matters is where the rock goes
+[11:30 AM] fancy: hard for humans
+[11:31 AM] fancy: easier for an ai
+[11:31 AM] A Random Badger: i still think that if that were truly the case it wouldnt have taken this long for an ai to do
+[11:32 AM] fancy: the go ai is hard to make because there are such a large number of moves
+[11:32 AM] fancy: it's not actually possible to calculate them all I think
+[11:32 AM] fancy: so you have to figure out how to tell it to generalize
+[11:32 AM] fancy: or something
+[11:32 AM] fancy: and classify moves as effectively equivalent
+[11:32 AM] fancy: that's where I'd assume the struggle is
+[11:32 AM] A Random Badger: that was they did with the first phase of the ai
+[11:33 AM] fancy: because if you had unlimited processing power you could math out go more easily than dota
+[11:33 AM] A Random Badger: now they have alphago zero
+[11:33 AM] A Random Badger: which played the game knowing nothing
+[11:33 AM] A Random Badger: and is vastly better than the original ai and every single top human opponent in the world
+[11:33 AM] fancy: :thumbsup:
+[11:34 AM] A Random Badger: idk maybe i am just biased
+[11:34 AM] fancy: you're taking human intuition for granted I think
+[11:35 AM] fancy: because as you said
+[11:35 AM] fancy: what you see
+[11:35 AM] fancy: is oh all it has to do is last hit and land spells and block better
+[11:35 AM] fancy: but why do you know that
+[11:35 AM] fancy: how do you know that's how you win mid
+[11:36 AM] A Random Badger: but i still think regardless of which is better and what i am biased towards, that the way elon musk parades his ai as such an accomplishment when it still hasnt accomplished all that much to be quite brutally honest makes him sounds arrogant and it seems like all the man cares about is his E-penis so to speak
+[11:36 AM] fancy: I mean
+[11:36 AM] fancy: if you're going to flame people for wanting to look good in front of others
+[11:36 AM] fancy: you better get some snacks
+[11:37 AM] fancy: because that's literally everyone ever
+[11:37 AM] fancy: and to be fair
+[11:37 AM] fancy: of all people
+[11:37 AM] fancy: he's earned it more than most
+[11:37 AM] fancy: and his ai is an accomplishment(edited)
+[11:37 AM] fancy: does he parade it too much? eh maybe
+[11:37 AM] fancy: but it's whatever
+[11:38 AM] A Random Badger: where as other ai companies like google dedicate their research and accomplishments to the possibility of creating AIs that in he future can accomplish the tasks of a doctor by diagnosing illness much more effectively and effeciently and being able to determine the best treatment for a patient, not just because they mastered a dumb board game or video game.
+[11:38 AM] A Random Badger: thats my problem
+[11:38 AM] A Random Badger: its as if
+[11:38 AM] A Random Badger: he doesnt actually care
+[11:39 AM] fancy: no one actually cared badger
+[11:39 AM] A Random Badger: about the potential value of AI technology
+[11:39 AM] fancy: ever
+[11:39 AM] fancy: everyone is selfish
+[11:39 AM] fancy: all anyone wants to do is feel good about themselves
+[11:39 AM] A Random Badger: sure
+[11:39 AM] fancy: whether that's through martyring yourself or putting yourself up is no different
+[11:40 AM] fancy: morality and nobility is a myth
+[11:40 AM] fancy: in the traditional sense
+[11:40 AM] fancy: and on top of that if he were to find a way to teach a robot intuition
+[11:41 AM] fancy: that would be huge implications for every area of ai
+[11:41 AM] A Random Badger: but the difference between accomplishing such a silly small task as making an AI that can master a dumb game, and simply using that as a stepping stone to being able to create an AI that can efficiently accomplish the tasks of a doctor is vastly greater as an accomplishment and will grow your E-penis a thousand times more than mastering a video game ever will
+[11:41 AM] fancy: according to you
+[11:41 AM] fancy: different strokes for different folks
+[11:41 AM] fancy: he's not a saint
+[11:41 AM] fancy: he's just a dude
+[11:41 AM] A Random Badger: thats the difference bewteen an ignorant fool such as elon musk and the scientists and engineers of google and other AI developers
+[11:42 AM] fancy: a really smart dude
+[11:42 AM] fancy: calling him ignorant is pretty absurd
+[11:43 AM] fancy: you're assigning some universal value to things to prescribe your judgments
+[11:43 AM] A Random Badger: would you call someone parading around that he had sex with the hottest girl in class more ignorant that the man who parades her around for marrying her? cause thats the difference in my mind
+[11:43 AM] fancy: I'd call neither of them ignorant
+[11:43 AM] fancy: because that doesn't make sense
+[11:44 AM] fancy: or I'd call them both ignorant because they are so insecure they need to parade around something that's not actually an accomplishment
+[11:44 AM] fancy: but they're the same
+[11:44 AM] fancy: if you asked me if I'd respect someone who had 9 wives over 40 years over someone who had only 1
+[11:44 AM] fancy: I'd respect the latter more because it's harder
+[11:45 AM] fancy: but neither person is more valuable than the other
+[11:45 AM] fancy: they're just people
+[11:45 AM] A Random Badger: yes and i think its ignorant that you'd rather the fame for the temporary moment rather than gain the respect of countless others
+[11:46 AM] A Random Badger: but i supopse your right about he's just a dude and he can do what he pleases
+[11:46 AM] fancy: what are you talking about
+[11:46 AM] fancy: what do you think ignorant means
+[11:46 AM] fancy: respect is temporary
+[11:46 AM] fancy: just as temporary as fame(edited)
+[11:47 AM] fancy: and they're not even mutually exclusive
+[11:47 AM] A Random Badger: maybe im using the wrong word but i have a small dictionary unfortunately
+[11:47 AM] fancy: lots of famous people I respect
+[11:47 AM] fancy: lots of famous people I don't
+[11:47 AM] fancy: lots of unknown people I respect
+[11:47 AM] fancy: lots of unknowns I don't
+[11:48 AM] fancy: it just seems an awful lot like you don't like him personally for whatever reason
+[11:48 AM] fancy: even though you don't know hardly anything about him
+[11:58 AM] fancy: I can understand a certain amount of distaste I suppose
+[11:58 AM] fancy: if you personally don't like boasting
+[11:58 AM] fancy: but I don't think it portrays ignorance
+[11:58 AM] fancy: because you have to remember
+[11:58 AM] fancy: he does have a brand to promote
+[12:03 PM] A Random Badger: yea i just have a strong distaste for people who boast but seemingly dont do anything with it. i have some respect for him such as his accomplishments with hsi companies bfr and their proposals of its use but to me it just seems like based off the tweets that ive seen of is reactions to his openai accomplishment that he has little more interest in growing this e-penis and net worth rather than the technological advancement himself
+[12:04 PM] fancy: that's always been his goal
+[12:04 PM] fancy: he's not in it for the people
+[12:04 PM] fancy: he sees an idea and is like I want to do that
+[12:04 PM] A Random Badger: yea and i just cant respect someone like that
+[12:04 PM] fancy: he wanted to have a space company
+[12:04 PM] fancy: he made one
+[12:04 PM] fancy: I can totally respect that
+[12:04 PM] fancy: that's fucking hustle
+[12:06 PM] A Random Badger: i just think its flawed and arrogant to go into anything with little appreciation for it other than the potential monetary value of it. which idk as far as his space company, its very possible he does have a strong appreciation for his work there but it doesnt seem that way in the case of openai
+[12:06 PM] fancy: I mean
+[12:06 PM] fancy: he wanted to do it
+[12:06 PM] fancy: so he did it
+[12:07 PM] fancy: that's the whole story
+[12:07 PM] fancy: he lost money on his space company
+[12:07 PM] fancy: it's not about the money
+[12:07 PM] A Random Badger: sure but did he do it because he recognised the monetary value of the accomplishment, the e-penis value, or the technological value
+[12:07 PM] A Random Badger: i mean
+[12:07 PM] fancy: no
+[12:07 PM] A Random Badger: its all really an investment to make more money
+[12:08 PM] fancy: space companies are by design a loss
+[12:08 PM] A Random Badger: even if its not making money now
+[12:08 PM] fancy: you don't get anything from going to space
+[12:08 PM] A Random Badger: but you do if world wide governments wantto make use of it
+[12:09 PM] A Random Badger: then again i dont know enough about space companies
+[12:10 PM] fancy: it's just a lot of sunk cost
+[12:10 PM] fancy: no one makes money off space
+[12:10 PM] fancy: it's a net negative industry
+[12:10 PM] fancy: all you get is satisfaction for curiosity
+[12:11 PM] fancy: it's so expensive
