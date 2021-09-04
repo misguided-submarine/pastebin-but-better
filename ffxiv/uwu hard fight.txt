@@ -1,0 +1,135 @@
+[15:34] Asmodean: pretty sure the locked duty is ucob
+[15:34] Asmodean: all his gear is 395-403
+[15:35] AcePat (AcePat Bee): Gl on them
+[15:39] Shin: eh
+[15:39] Shin: he's not losing that much
+[15:39] Shin: tbh
+[15:39] Asmodean: no but I doubt he's in any way shape or form ready for ucob
+[15:39] Shin: still weird tho
+[15:39] Asmodean: I wouldn't take anyone into an ultimate unless they've cleared a current savage tier at the bare minimum
+[15:40] Shin: I'd do 70 ultimates even if they haven't cleared current savage
+[15:41] Shin: esp uwu
+[15:42] Shin: three mini extremes followed by discount savage fight
+[15:42] Shin: xd
+[15:42] AcePat (AcePat Bee): I'd say get savage experience at least
+[15:42] Asmodean: current savage = any tier without echo or absurd ilvl advantage, and I'd say even uwu is quite a bit harder than any savage fight has been since stormblood
+[15:43] Shin: I'd disagree
+[15:43] Asmodean: the mechanics are pretty simple but things like jails have to be resolved pretty quickly
+[15:44] Shin: I don't think anything in uwu is significantly more challenging than savage mechanics
+[15:44] AcePat (AcePat Bee): The Ultima stuff gets funky
+[15:44] Shin: wym
+[15:44] AcePat (AcePat Bee): Esp if you're not melee
+[15:44] AcePat (AcePat Bee): Annihilation was prolly the hardest for me
+[15:44] AcePat (AcePat Bee): Also Titan gaol requires some quick movement
+[15:45] AcePat (AcePat Bee): Being able to do the mechanics while keeping up the damage consistently requires a lot of preparation and comfort with your current job
+[15:45] Shin: except you don't really have to keep up damage
+[15:45] Shin: cus the check is non-existent
+[15:45] Shin: the only check that matters is post suppression
+[15:46] Shin: potency bloat has nerfed it to hell
+[15:46] AcePat (AcePat Bee): Which I'd say the latter builds up from doing savage and wtv
+[15:46] AcePat (AcePat Bee): True but you still need ppl to survive
+[15:46] AcePat (AcePat Bee): Fuckups = death = less time for enrage
+[15:46] Asmodean: so even setting aside the argument over whether ultima is or isn't harder than most savage, it still remains a 15+ minute fight, and the only fight that's even come close to that this expansion has been shiva
+[15:47] AcePat (AcePat Bee): + longer until suppression = less cds for healing and wtv I'd assume
+[15:47] AcePat (AcePat Bee): ^ Asmo
+[15:47] AcePat (AcePat Bee): Fight gets tiring to do over time as well
+[15:47] Asmodean: someone who's never even cleared a single savage fight is not ready to commit to progging a 15+ minute fight
+[15:48] Shin: uhh
+[15:48] Asmodean: also ultima's difficulty is very skewed across roles
+[15:48] AcePat (AcePat Bee): UWU is by far the easiest ultimate but I don't think the fight itself is that easy
+[15:48] Shin: it's less than 15 minutes of fight even if you kill every phase at enrage I'm pretty sure
+[15:48] AcePat (AcePat Bee): It's still a long fight
+[15:49] Asmodean: and he's also not looking for an uwu group, he's looking for a ucob group
+[15:49] AcePat (AcePat Bee): That's considerably longer
+[15:49] Asmodean: which, and I just double checked, has a speedkill record of 15:33
+[15:51] Asmodean: I am seeing an average of about ~14 minutes for uwu kills, with record being just over 11 minutes.  Still longer than e8s
+[15:51] Steve (Yeetlet/iluli): keep in mind, shin, most of hte community finds things harder than you do. I.e. because you are very good and I am bad
+[15:52] AcePat (AcePat Bee): Besides, a lotta statics check for clears to see if you are able to handle mechanics and do fights properly
+[15:52] Shin: this is entirely dependent on the individual and how much time they're willing to put in
+[15:52] AcePat (AcePat Bee): I don't think my static checked my logs b/c if they did idk if they would've taken me lol
+[15:52] Shin: that's just gatekeeping for no reason
+[15:53] AcePat (AcePat Bee): I don't think that's gatekeeping if they don't have a general knowledge of how fights feel in this game
+[15:53] AcePat (AcePat Bee): And the difficulty
+[15:53] AcePat (AcePat Bee): :sweating:
+[15:53] Shin: I don't think savage prepares you for ult very well at all lol
+[15:53] Shin: they're very different
+[15:53] Asmodean: it prepares you better than anything else in the game
+[15:54] AcePat (AcePat Bee): ^
+[15:54] AcePat (AcePat Bee): Also doing savages lets you get feels for stuff like snapshotting and certain universal mechanics
+[15:54] AcePat (AcePat Bee): It's possible to go into ult without doing savage and get relatively far
+[15:54] Asmodean: and it gives potential statics proof that you at least know the barebones of your class and understand standard stuff like clock positions, snapshots, etc
+[15:55] AcePat (AcePat Bee): But it'll prolly take longer cause there's stuff you're learning abt the game that you didn't learn yet from other high end content
+[15:55] Steve (Yeetlet/iluli): been helping a few newer players get into high end content and like. if you're fresh with not doing anything, a few of htem find like ruby challenging because even extreme just throws more at you than most content. These people COULD theoretically jump into savage or ultimate the right way, but I think having the previous difficulty tier experience just makes it go a lot smoother
+[15:55] Steve (Yeetlet/iluli): like i thikn anyone, if they put in the time and stick with it, can learn any fight
+[15:55] Steve (Yeetlet/iluli): its just varying degrees of time and practice
+[15:55] Asmodean: because if I'm putting together a static and someone messages me going "hey I just hit 80 and went and unsynced o4s can I join your group" I'm going to politely decline them
+[15:56] AcePat (AcePat Bee): ^ Steve
+[15:56] Steve (Yeetlet/iluli): and some people just wont put in the training dummy time to figure out how to press buttons to do sufficient damage to hit the fights that actually have checks
+[15:56] AcePat (AcePat Bee): Also consider the fact that there's 7 other ppl doing the fight with you and the level of speed/initial competency can be very mismatched
+[15:56] Shin: we are now conflating a great many things
+[15:56] Shin: c:
+[15:56] Asmodean: because yeah, they might be a really fast learner but chances are I'm completely wasting my time
+[15:56] Steve (Yeetlet/iluli): uwu is, in general, easy in concept but is hard to pull off often because all the mechanics just happen so much faster
+[15:56] Asmodean: we are
+[15:56] Asmodean: lmao
+[15:57] AcePat (AcePat Bee): This is a really great point, actually
+[15:57] AcePat (AcePat Bee): I just don't see how saying that someone who didn't do a lick of savage and/or extreme wouldn't have the best of times during an ultimate
+[15:58] Asmodean: I talked about that before with some friend's actually, the pacing in savage is dramatically slower than even uwu.  the mechanics might be simple but even garuda has very little downtime between things happening
+[15:59] Asmodean: savage is usually mechanic > downtime > mechanic
+[15:59] Asmodean: ultimates are much more dense
+[16:14] AcePat (AcePat Bee): ^^^
+[16:16] Cest: Nice a discussion in my discord time to join the fun
+[16:19] Cest: Pretty much the only reason savage would help people imo is if they have no experience with doing their rotation. Mechanics in savage (the tiers I've done at least) are so standardized for the most part and the pacing is slow in comparison to ultimates. So the only thing you can really get out of them is learning to play your job properly while looking at the screen. The hardest part of savage is length and the fact that some parts of it are a fast barrage. I don't think savage prepares you for either of those things.
+[16:19] Cest: Big edit
+[16:19] Cest: Must re read the start
+[16:21] Cest: I feel like being good at other fast paced games that require concentration would help you just as much if you were new to ultimates
+[16:21] Asmodean: new requirement to join my ultimate statics: must hit GM in sc2
+[16:21] Asmodean: think fast motherfucker
+[16:21] Steve (Yeetlet/iluli): I mean, I think that just getting experience doing mechanics, especially ones with little wiggle room for mistakes does help if you havent done high end content
+[16:21] AcePat (AcePat Bee): + savage is slower yea but it's def a stepping stone
+[16:22] Steve (Yeetlet/iluli): I say this because running newer friends through ruby even, which is slow and has no bad mechanics, is still a weird process for them
+[16:22] Steve (Yeetlet/iluli): being familiar with how you resolve the types of mechanics that tend to exist in this game is a skill that you just have to learn by doing, and knowing the general rules of thumb pre-ultimate feels important in making it run smoother
+[16:23] Steve (Yeetlet/iluli): not to say people couldnt do it fresh, just feel like it would go better if they are just more familiar with the types of shit you have to do in high end content
+[16:23] Steve (Yeetlet/iluli): extremes and ultimates are a good stepping stone like Ace said
+[16:23] AcePat (AcePat Bee): I don't think current savage is needed for experiece
+[16:23] AcePat (AcePat Bee): But I'd absolutely say get at least some experience of savage
+[16:23] Renew: I only accept titanfall / quake / fighting game gamers in my ultimate group
+[16:23] Steve (Yeetlet/iluli): sure, even just extremes, but like, something where you have to do somewhat complex mechanics
+[16:24] AcePat (AcePat Bee): (Preferably doing it while it's still fresh-ish i.e. before the next raid tier came out)
+[16:24] Cest: The mechanics that follow the rules of thumb are the simplest to explain and remember though so the leg up it gives you is so small in comparison to just being someone who looks at their screen
+[16:24] Steve (Yeetlet/iluli): cycles in 11 might be the best thing to experience imo since its a barrage
+[16:25] Cest: Like in 2 scenarios one blind one not where a standardized attack happens in ultimate, the prog is the same for a good player of any other game and someone who's played ff before
+[16:25] Cest: You die the first time
+[16:25] Cest: Then hopefully not again because you learned what it does
+[16:26] Cest: But it's not like a full party survives a mechanic on sight read just because they know it's archetype
+[16:26] jill time: as someone who played "fast paced" games before ff, it does not help getting used to new fights because there are a mutitude of new things to focus on
+[16:27] jill time: i learn and get better at complex things by sheer muscle memory which is only earned by playing the game
+[16:27] Cest: Yeah that might just be more down to the individual than I think then
+[16:27] jill time: but im gonna learn how to do my rotation better regardless of whether im running dungeons or savage content i feel like
+[16:27] Cest: Cause it's not like that for me
+[16:27] Cest: And yeah that last point I agree with
+[16:28] Cest: I think the main downfall of ff players at large is their brain short circuits and they get overwhelmed
+[16:28] jill time: the way i see it personally, if i learn my rotation inside out and all my keybinds beforehand itll make learning any other content way easier cus i dont even have to look at that part of my screen
+[16:28] Cest: And if you have the skill to not let that happen (through other game experience for me) it makes learning a lot easier
+[16:29] jill time: this was absolutely happening to me at the start of my static's prog
+[16:29] Cest: Yeah it happens to most new people
+[16:29] AcePat (AcePat Bee): That absolutely happens as a new player
+[16:29] jill time: best advice i got is to learn the fight first and then worry about ur rotation afterwards
+[16:30] jill time: messing up your rotation while progging is fine
+[16:30] Cest: Learn the fight and spend off time hitting a dummy
+[16:33] jill time: the way i learnt was getting so used to the start of the fight that i just learned when to use abilities
+[16:33] jill time: had more focus to know when to use what
+[16:35] Cest: Yeah I have a lot of fun doing the evolution of that as well as I continue to get better at the game
+[16:35] Cest: Where you try and find what's best for each phase etc
+[16:35] Cest: Granted I don't go hard cause I've never had a consistent group
+[16:35] Cest: But it's still fun to do that still
+[16:37] jill time: yeah i was enjoying learning WAR rotation on titan cus of how long we were progging that fight for
+[16:38] Cest: Gotta find ways to stay entertained when you're not the weakest link :steve4:
+[16:38] AcePat (AcePat Bee): PF is a great way to get time optimizing fights when progging
+[16:39] AcePat (AcePat Bee): Because it takes 10x as long to get past a part you already know
+[16:39] AcePat (AcePat Bee): :death:
+[16:40] Cest: If you're doing standard stuff yeah
+[16:49] Shin: so unironically
+[16:49] Shin: a lot of ex primal mechanics
+[16:49] Shin: are harder than savage mechanics
+[16:50] Shin: the reason the fights are easier overall is because of the number tuning
